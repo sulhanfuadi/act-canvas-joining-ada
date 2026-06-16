@@ -1,0 +1,93 @@
+Pengalaman Mengikuti Test Masuk Apple Developer Academy Binus Batch 2
+Andi Ardhian
+Andi Ardhian
+
+Follow
+5 min read
+·
+Aug 15, 2020
+250
+
+
+7
+
+
+Apple Developer Academy bekerjasama dengan kampus binus memberikan kesempatan beasiswa di Indonesia untuk belajar secara gratis dengan diberikan perlengkapan selama belajar dengan harapan lulusannya dapat memberikan kontribusi menciptakan developer apple handal di Indonesia.
+
+Press enter or click to view image in full size
+
+Kampus Apple Developer Academy
+Tanpa basa basi pada tulisan saya kali ini ingin menceritakan pengalaman yang menurut saya sangat menantang dan menyenangkan untuk saya ceritakan kepada temen-temen yang mungkin pada batch-batch selanjutnya mencoba untuk mendaftar di Apple Developer Academy Binus ini. Jujur saja saya tidak berhasil lolos pada tahap akhir (wawancara), namun saya berjanji pada tulisan ini akan ada poin penting bagi temen-temen yang mungkin dalam waktu dekat akan melakukan wawancara di Apple Developer Academy. Btw, saya ikut pada Cohort 3 batch 2 tahun 2019.
+
+Penjelasan sedikit, bahwa untuk dapat diterima menjadi siswa di Apple Developer Academy Binus ini temen-temen harus melewati beberapa tahap.
+1. Registrasi (membuat motivation letter)
+2. test online (Ada 4 sections)
+3. Interview (Di Apple Developer Academy @ BINUS, Green Office Park 9, The Breeze)
+
+Tahap Pertama, Untuk masalah registrasi mungkin yang cukup menantang adalah membuat motivation letter dengan menggunakan bahasa Inggris. Menurut saya ini juga akan menjadi salah satu penilaian tersendiri seberapa serius kita belajar di Apple Developer Academy tersebut.
+
+Tahap Kedua, kita akan melakukan ujian online yang nantinya akan ditentukan waktu pengerjaannya, dengan sections sebagai berikut :
+Section 1 — Logic = 25 Questions
+Section 2 — Programming = 15 Questions
+Section 3 — OOP = 10 Questions
+Section 4 — Bonus Question = 2 Questions
+Pengalaman saya soal yang diberikan tidak terlalu sulit bagi saya, karena background saya adalah IT, dipertanyaan tentang program saya bisa menjawab soal-soalnya dengan baik dan yakin. Tips untuk temen-temen yang belum pernah belajar tentang bahasa pemrograman, saya sangat menyarankan untuk kalian pelajari bahasa program java sampai dengan tingkat advance, karena disana akan ada soal-soal seperti constructor, polimorfisme, ininheritance, dll. (Oh iya, semua soal dalam bahasa inggris ya).
+
+Get Andi Ardhian’s stories in your inbox
+Join Medium for free to get updates from this writer.
+
+Enter your email
+Subscribe
+
+Remember me for faster sign in
+
+Tahap ketiga, setelah teman-teman berhasil mengerjakan soal-soal pada tahap seleksi kedua dengan baik, maka akan ada invitation untuk melakukan interview. Interview hanya dilakukan di Di Apple Developer Academy @ BINUS, Green Office Park 9, The Breeze, tepatnya di BSD, Serpong — Tangerang Selatan.
+Jadi temen-temen harus mempersiapkan waktu interview kesana, dan kalau kalian adalah pekerja, silahkan izin kekantor dulu karena disanapun saya juga banyak bertemu teman-teman yang akan melakukan interview berstatus bekerja. (temen-temen bisa reschedule interview ya, kalau ternyata bentrok dengan kegiatan lainnya, karena saya pun melakukan reschedule sekali karena saya salah naik kereta dan tidak bisa sampai dilokasi tepat waktu).
+
+Pada tahap interview ini mungkin saya akan jelaskan secara detail, dan saya menganalisa kenapa saya gagal pada tahap ini.
+Biasanya dari pihak Apple developer Academy akan mengkontak kita via telpon untuk mengkonfirmasi kehadiran saat interview nanti, disini temen-temen bisa melakukan reschedule jika berhalangan hadir sesuai ketetapan wawancara.
+
+Sesampai saya di BSD (kampus Apple Developer Academy) saya langsung konfirmasi kehadiran di meja reseptionist dan saya langsung diarahkan menunggu disamping kampus sampai waktu wawancara dimulai.
+Wawancara saya saat itu hanya terdiri dari 7 calon siswa (karena sesi wawancara dibagi-bagi). Disana saya langsung diberikan pulpen dan kertas selembar, kemudian diperintahkan untuk membuat cerita kenapa kamu ingin masuk ke Apple Developer Academy dalam waktu 10 menit(pertanyaan dan jawaban dalam bahasa Inggris). Setelah 10 menit berlalu, ternyata kamipun langsung dibagi menjadi 3 kelompok, kami diarahkan mengikuti intustructur yang telah ditunjuk. Saat itu kebetulan berdua dengan mahasiswi binus yang masih smst. 4.
+Instructur langsung membaca tulisan saya tersebut dan kemudian menanyakan lebih lanjut tentang tulisan tersebut. maka saya jawab sesuai dengan pertanyaan yang ditanyakan.
+Note: Disini saya cukup membuat kesalahan yang fatal, saya harap tidak terjadi kepada kalian.
+Saya menjelaskan sebuah rencana saya membangun start-up, menurut saya ide sayan ini sangat bagus, namun di akhir pertanyaan saya tersudut dengan pertanyaan “sudah sejauh mana kamu mengembangkan aplikasi ini?” dan saya jujur menjawab “saya belum membuatnya, baru sebuah ide, dan saya akan membuatnya setelah saya dapat ilmu cara membuatnya di academy ini”.
+opini saya : apple developer academy mencari peserta yang secara progress pembelajaran sudah ada, dengan antusias belajar yang baik. kalian bisa jelaskan hal-hal yang sudah kalian lakukan, seperti mengikuti lomba, membuat aplikasi sederhana, dan progress pembelajaran kalian. karena temen saya wawancara saya saati itu menjelaskan semua itu dan instructur pun sangat tertarik mendengarnya. saya sebenarnya punya pengalaman itu juga tapi saya tidak menceritakannya. sedih euy.
+
+Setelah wawancara tahap 1 selesai, kami dikumpulkan kembali keruang depan untuk melakukan wawancara tahap 2. Pada tahap 2 ini saya cukup kaget karena kami dibagi menjadi 2 tim, dan diberikan suatu topik pembahasan, kemudian kami harus melakukan debat pada topik tersebut. Topik saya saat itu adalah “Volvo is the most safest car in the world”. lagi-lagi menggunakan bahasa inggris, namun kami diberi keringanan untuk boleh mencampur dengan bahasa Indonesia.
+Perdebatan terjadi dengan tahapan berikut :
+1. tim 1 melakukan diskusi terhadap topic selama 10 mnt.
+2. tim 1 memaparkan diskusi tersebut selama 10 mnt.
+3. tim 2 menanggapi pemaparan tim 1 selama 5 mnt.
+4. tim 2 melakukan diskusi terhadap topic selama 10 mnt.
+5. tim 2 memaparkan diskusi tersebut selama 10 mnt.
+6. tim 1 menanggapi pemaparan tim 1 selama 5 mnt.
+
+tahap 3, pada tahap ini wawancara ringan, kami diberikan suatu pertanyaan sehari-hari dan dijawab secara bergiliran masing-masing peserta. pertanyaannya sebagai berikut :
+- Apa kesalahan terbesar yang pernah terjadi pada diri kalian?
+- Bagaimana tanggapan kalian pada kesalahan terbesar kalian tersebut?
+- dll. (saya lupa, pertanyaan tidak banyak kok dan hanya seputar diri kalian aja)
+
+Setelah semua tahap wawancara selesai, maka kalian dipersilahkan kembali kerumah masing-masing deh. Untuk pengumuman apakah diterima atau tidaknya cukup lama, saya melakukan wawancara pada tanggal 25 Oktober 2019 dan pengumuman tanggal 18 November 2019.
+
+Press enter or click to view image in full size
+
+pengumuman Apple Developer Academy
+Semoga pengalaman saya bermanfaat untuk kalian, dan semoga kalian diterima di kampus Apple Developer Academy ya sobb. Good luck!
+
+Apple Developer Academy
+Binus
+Apple Developer Program
+250
+
+
+7
+
+
+Andi Ardhian
+Written by Andi Ardhian
+18 followers
+·
+2 following
+
+Follow

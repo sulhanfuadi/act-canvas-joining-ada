@@ -1,0 +1,14 @@
+Video ini merupakan panduan komprehensif bagi mereka yang ingin mendaftar ke Apple Developer Academy. Theo, seorang alumni, membagikan pengalamannya melewati proses seleksi yang terdiri dari beberapa tahap utama:
+
+Proses Seleksi:
+
+Online Application (03:03): Meliputi pengiriman motivation statement (esai), resume atau CV yang ATS-friendly, dan portfolio. Theo menekankan bahwa portfolio tidak harus berupa aplikasi jadi, tetapi lebih menunjukkan kemampuan riset, design thinking, dan problem solving.
+Online Entry Test (05:22): Tes teknis yang mencakup soal logika, programming (dasar coding, pseudo-code, paradigma OOP), serta pertanyaan desain dan bisnis dasar.
+Focus Group Discussion / FGD (07:05): Tahap paling krusial yang menguji kreativitas, kolaborasi, dan kemampuan komunikasi.
+Tips Penting untuk Pendaftar:
+
+Jangan Panik: Anda tidak harus menjadi developer ahli; yang dicari adalah growth mindset, kreativitas, dan kemampuan bekerja sama (10:15).
+Fokus pada Kolaborasi: Apple Developer Academy sangat mengutamakan kerja tim. Tunjukkan kemampuan bekerja dengan orang lain dalam portfolio Anda (18:33).
+Mindset FGD: Saat FGD, utamakan empati di atas ego (26:45), jangan mencoba mendominasi diskusi (34:42), dan tunjukkan alur berpikir Anda atau thinking out loud (32:39).
+Terima Kritik: Jika dikritik saat diskusi, jangan defensif atau langsung down. Tunjukkan bahwa Anda terbuka untuk belajar dan memperbaiki solusi bersama (36:24).
+Theo menyarankan agar pendaftar selalu memeriksa situs resmi Apple Developer Academy untuk informasi terbaru karena proses seleksi dapat berubah setiap tahunnya (39:32).
