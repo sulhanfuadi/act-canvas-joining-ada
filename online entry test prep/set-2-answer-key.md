@@ -143,7 +143,10 @@ a.
 func greaterThanTen(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 > 10 }
 }
-``` Correct! This correctly utilizes the `filter` higher-order function to keep only integers strictly greater than 10.
+```
+
+ Correct! This correctly utilizes the `filter` higher-order function to keep only integers strictly greater than 10.
+
 b.
 ```swift
 func greaterThanTen(_ numbers: [Int]) -> [Int] {
@@ -182,7 +185,8 @@ Question text
 In Swift, what does the declaration `let age: Int?` represent?
 Select one:
 a. An integer constant initialized to zero.
-b. An optional integer constant that can hold either an `Int` value or `nil`. Correct! Declaring a type with a `?` suffix makes it an optional, which represents the presence of a value of that type or its absence (`nil`).
+b. An optional integer constant that can hold either an `Int` value or `nil`. 
+Correct! Declaring a type with a `?` suffix makes it an optional, which represents the presence of a value of that type or its absence (`nil`).
 c. A non-optional integer constant that is optional to specify.
 d. A dynamic type variable.
 Feedback
@@ -200,7 +204,8 @@ let result = nums.filter { $0 % 2 == 1 }.map { $0 * 3 }
 print(result)
 ```
 Select one:
-a. `[3, 9, 15]` Correct! The filter keeps odd numbers `[1, 3, 5]`. The map multiplies each by 3, yielding `[3, 9, 15]`.
+a. `[3, 9, 15]` 
+Correct! The filter keeps odd numbers `[1, 3, 5]`. The map multiplies each by 3, yielding `[3, 9, 15]`.
 b. `[6, 12]`
 c. `[3, 6, 9, 12, 15]`
 d. `[1, 3, 5]`
@@ -219,7 +224,8 @@ a.
 func maxValue(_ items: [Int]) -> Int? {
     return items.max()
 }
-``` Correct! Swift's `max()` method on arrays returns the maximum element, or `nil` if the collection is empty.
+``` 
+Correct! Swift's `max()` method on arrays returns the maximum element, or `nil` if the collection is empty.
 b.
 ```swift
 func maxValue(_ items: [Int]) -> Int? {
@@ -276,7 +282,8 @@ Question text
 What is one practical reason to prefer a `struct` over a `class` in Swift app development?
 Select one:
 a. Structs support multithreaded class inheritance.
-b. Structs use value semantics, which copies the instance on assignment and reduces the risk of accidental shared-state mutation bugs. Correct! Value semantics prevent unexpected side effects when modifying instances.
+b. Structs use value semantics, which copies the instance on assignment and reduces the risk of accidental shared-state mutation bugs. 
+Correct! Value semantics prevent unexpected side effects when modifying instances.
 c. Structs allow multiple parts of the app to share a single mutable reference.
 d. Structs are always stored on the heap, making retrieval faster.
 Feedback
@@ -290,7 +297,8 @@ Question text
 Why are optionals considered safer than using placeholder defaults (like empty strings or negative numbers) to represent the absence of data?
 Select one:
 a. Optionals automatically clean up memory cycles.
-b. Optionals explicitly model the absence of data at the type level, forcing developers to handle the `nil` state before accessing the value. Correct! This prevents bugs caused by forgetting to check for placeholder values that might be treated as valid data.
+b. Optionals explicitly model the absence of data at the type level, forcing developers to handle the `nil` state before accessing the value. 
+Correct! This prevents bugs caused by forgetting to check for placeholder values that might be treated as valid data.
 c. Optionals speed up execution time of functions.
 d. Optionals prevent variables from being re-assigned.
 Feedback
@@ -374,7 +382,10 @@ struct Note: Readable {
         return "content"
     }
 }
-``` Correct! The protocol defines the required method contract, and the struct conforms to it by implementing `read()`.
+``` 
+Correct! 
+- The protocol defines the required method contract, and 
+- the struct conforms to it by implementing `read()`.
 b.
 ```swift
 class Readable {
@@ -419,7 +430,8 @@ Question text
 Which set of features represents the most appropriate MVP (V1) scope for a mobile bus ticket booking app?
 Select one:
 a. Live driver chat, social media sharing, custom bus colors, weather forecast integration, premium animations.
-b. Route search, schedule viewing, seat selection, checkout/payment, and digital ticket history. Correct! These represent the core features necessary to complete the primary user journey of buying a bus ticket.
+b. Route search, schedule viewing, seat selection, checkout/payment, and digital ticket history. 
+Correct! These represent the core features necessary to complete the primary user journey of buying a bus ticket.
 c. Interactive 3D terminal maps, chatbot customer service, virtual reality seat preview, referral points system.
 d. Background music, promotional banners, user review forum, developer credits screen.
 Feedback
@@ -433,7 +445,8 @@ Question text
 Which three design techniques are most effective at improving form usability on mobile screens?
 Select one:
 a. Small tap targets, multi-column layouts, and hidden error messages.
-b. Clear labels, inline real-time validation, and large tap targets. Correct! These practices reduce input errors and physical effort on mobile touchscreens.
+b. Clear labels, inline real-time validation, and large tap targets. 
+Correct! These practices reduce input errors and physical effort on mobile touchscreens.
 c. All-caps labels, removing placeholder hints, and hiding input fields.
 d. High-contrast background animations, multi-step nested modals, and small fonts.
 Feedback
@@ -447,7 +460,8 @@ Question text
 Why should visual or haptic feedback be immediate after a user performs an action in a mobile application?
 Select one:
 a. It speeds up the processing time of the server.
-b. It reduces user uncertainty, confirms that the action was registered, and prevents repeated accidental actions (like double-taps). Correct! Prompt feedback establishes a feeling of responsiveness and control.
+b. It reduces user uncertainty, confirms that the action was registered, and prevents repeated accidental actions (like double-taps). 
+Correct! Prompt feedback establishes a feeling of responsiveness and control.
 c. It ensures the app complies with strict App Store submission rules.
 d. It decreases the battery consumption of the mobile device.
 Feedback
@@ -475,7 +489,8 @@ Question text
 A transit app exhibits a low onboarding completion rate. Which three signals should you inspect first to identify the source of friction?
 Select one:
 a. CPU usage, app download size, and compiler warnings.
-b. Cohort drop-off rate by step, time spent on each onboarding screen, and first-error rates in input fields. Correct! These analytics locate precisely where users lose patience or encounter validation issues.
+b. Cohort drop-off rate by step, time spent on each onboarding screen, and first-error rates in input fields. 
+Correct! These analytics locate precisely where users lose patience or encounter validation issues.
 c. Daily active users, total downloads, and server request count.
 d. Customer reviews on competitor apps, marketing click-throughs, and code line count.
 Feedback
@@ -489,7 +504,8 @@ Question text
 Which of the following represents the most effective rewrite of the weak requirement: "Users should book faster"?
 Select one:
 a. "Improve booking speed."
-b. "Increase booking completion rate from 58% to 72% by reducing checkout steps from 5 to 3." Correct! It is specific, measurable, defines a clear solution space, and is oriented around user outcomes.
+b. "Increase booking completion rate from 58% to 72% by reducing checkout steps from 5 to 3." 
+Correct! It is specific, measurable, defines a clear solution space, and is oriented around user outcomes.
 c. "The booking page should load in less than 5 seconds."
 d. "Remove the checkout page completely."
 Feedback
@@ -563,7 +579,8 @@ Question text
 Which description of a social problem and app-based solution shows the highest user empathy?
 Select one:
 a. "The elderly don't use technology. I want to build a complex banking app with artificial intelligence to show them how to do it."
-b. "Elderly users struggle to book medical appointments due to small fonts and complex flows. I want to build a simplified appointment scheduler with large targets, VoiceOver support, and direct contact options based on user interviews." Correct! This demonstrates clear definition of the user group, empathy for their specific limitations, and features targeted at solving those pain points.
+b. "Elderly users struggle to book medical appointments due to small fonts and complex flows. I want to build a simplified appointment scheduler with large targets, VoiceOver support, and direct contact options based on user interviews." \
+Correct! This demonstrates clear definition of the user group, empathy for their specific limitations, and features targeted at solving those pain points.
 c. "I want to build a game to help kids stay quiet during dinners."
 d. "I want to build a social app for elite fitness enthusiasts."
 Feedback
