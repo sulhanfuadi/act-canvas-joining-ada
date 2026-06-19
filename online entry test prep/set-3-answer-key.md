@@ -144,7 +144,8 @@ func average(_ items: [Double]) -> Double? {
     guard !items.isEmpty else { return nil }
     return items.reduce(0, +) / Double(items.count)
 }
-``` Correct! This avoids division by zero by checking if the array is empty using `guard`, and calculates the average using `reduce` and `count`.
+``` 
+Correct! This avoids division by zero by checking if the array is empty using `guard`, and calculates the average using `reduce` and `count`.
 b.
 ```swift
 func average(_ items: [Double]) -> Double? {
