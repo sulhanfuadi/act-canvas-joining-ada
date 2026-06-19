@@ -2,14 +2,14 @@ Developer Academy - Exam Preparation 2026-2027
 Home
 My courses
  Exam_prep_26-27
- SECTION 2 - Practice Set 3
+ SECTION 1 - Practice Set 3
  Self-assessment Quiz for Practice Set 3
-Time limit: 90 minutes
-Suggested split: A 20m, B 20m, C 15m, D 15m, E 20m
+Time limit: 120 minutes
+Suggested split: Section 1 (60 minutes), Section 2 (60 minutes)
 
 ---
 
-### Section A - Logic & Reasoning
+### Section 1: Logic Test
 
 Question 1
 Question text
@@ -67,18 +67,232 @@ Evaluate the logical validity of the following argument:
 - No prototypes are final products.
 - Some prototypes are tested by users.
 - Therefore, some tested items are not final products.
-
 Select one:
 a. Not valid, because prototypes are always final products.
 b. Valid, because the tested prototypes are a subset of tested items, and since no prototypes are final products, those tested prototypes cannot be final products either.
 c. Valid, because all tested items are prototypes.
 d. Not valid, because some final products are prototypes.
 
+Question 7
+Question text
+Number pattern: `20, 24, 28, 32, 36, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 36
+b. 40
+c. 42
+d. 44
+
+Question 8
+Question text
+Five students (A, B, C, D, and E) took an exam. We know:
+- A scored higher than B.
+- C scored lower than D.
+- E scored higher than A but lower than D.
+
+Who achieved the highest score?
+Select one:
+a. A
+b. D
+c. E
+d. Cannot be determined
+
+Question 9
+Question text
+Worker A can complete a software module in `9 hours`, and Worker B can complete the same module in `18 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 13 hours
+b. 5 hours
+c. 6 hours
+d. 8 hours
+
+Question 10
+Question text
+Consider the statement:
+'Unless you pass the coding challenge, you will not get an interview.'
+
+Which of the following is logically equivalent to this statement?
+Select one:
+a. If you pass the coding challenge, you will get an interview.
+b. If you get an interview, you passed the coding challenge.
+c. If you do not get an interview, you did not pass the coding challenge.
+d. Passing the coding challenge guarantees you an interview.
+
+Question 11
+Question text
+Number pattern: `14, 22, 17, 25, 20, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 20
+b. 28
+c. 33
+d. 34
+
+Question 12
+Question text
+Four cards have a letter on one side and a number on the other. You see:
+`[E]` `[K]` `[4]` `[7]`
+
+Rule: 'If a card has a vowel on one side, it must have an even number on the other side.'
+
+Which card(s) must you turn over to prove the rule?
+Select one:
+a. Only [E]
+b. [E] and [4]
+c. [E] and [7]
+d. All four cards
+
+Question 13
+Question text
+Number pattern: `14, 20, 26, 32, 38, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 38
+b. 40
+c. 44
+d. 50
+
+Question 14
+Question text
+Three boxes contain either apples, oranges, or both. All three boxes are labeled incorrectly. 
+- Box 1 label: 'Apples'
+- Box 2 label: 'Oranges'
+- Box 3 label: 'Apples & Oranges'
+
+You can pick one fruit from one box without looking. Which box should you pick from to label all boxes correctly?
+Select one:
+a. Box 1 ('Apples')
+b. Box 2 ('Oranges')
+c. Box 3 ('Apples & Oranges')
+d. It doesn't matter, any box will work.
+
+Question 15
+Question text
+Worker A can complete a software module in `5 hours`, and Worker B can complete the same module in `20 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 12 hours
+b. 3 hours
+c. 4 hours
+d. 6 hours
+
+Question 16
+Question text
+A team has a project deadline. They argue:
+'If we hire more developers, we will write code faster. Writing code faster means we finish the project on time. Therefore, hiring more developers guarantees we finish on time.'
+
+What is a potential logical flaw in this chain of reasoning?
+Select one:
+a. It assumes onboarding new developers takes zero time, which is a false cause/assumption.
+b. It is a circular argument.
+c. It is a middle ground fallacy.
+d. There is no logical flaw.
+
+Question 17
+Question text
+Number pattern: `27, 33, 30, 36, 33, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 33
+b. 39
+c. 42
+d. 43
+
+Question 18
+Question text
+If you are told that 'Some apps that crash are not optimized' and 'All optimized apps are fast', which of the following is a logically valid conclusion?
+Select one:
+a. No fast apps crash.
+b. Some apps that crash are not fast.
+c. Some apps that crash are fast.
+d. We cannot conclude that some apps that crash are not fast, because they could still be fast through other means.
+
+Question 19
+Question text
+Number pattern: `5, 12, 19, 26, 33, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 33
+b. 40
+c. 42
+d. 47
+
+Question 20
+Question text
+Consider these statements:
+- If the server is offline, the client displays an error message.
+- The client did not display an error message.
+- Therefore, the server is online.
+
+Is this argument logically valid?
+Select one:
+a. Yes, by Modus Tollens (If P then Q; Not Q; Therefore Not P).
+b. No, because it is a False Cause fallacy.
+c. Yes, by Modus Ponens (If P then Q; P; Therefore Q).
+d. No, because it is denying the antecedent.
+
+Question 21
+Question text
+Worker A can complete a software module in `8 hours`, and Worker B can complete the same module in `24 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 16 hours
+b. 5 hours
+c. 6 hours
+d. 8 hours
+
+Question 22
+Question text
+Which of the following describes the 'Burden of Proof' logical fallacy?
+Select one:
+a. Assuming that because two variables are correlated, one must cause the other.
+b. Arguing that a claim must be true because it hasn't been proven false.
+c. Making a claim and expecting the opponent to disprove it rather than providing evidence for it.
+d. Taking a middle position between two extreme stances as the correct one.
+
+Question 23
+Question text
+Number pattern: `10, 15, 11, 16, 12, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 12
+b. 17
+c. 19
+d. 21
+
+Question 24
+Question text
+In a certain programming language, all variables are either local or global. We know:
+- Some local variables are integers.
+- No global variables are integers.
+
+Which of the following statements MUST be true?
+Select one:
+a. All integers are local variables.
+b. Some integers are not global variables.
+c. No local variables are global variables.
+d. Some local variables are not integers.
+
+Question 25
+Question text
+Number pattern: `2, 7, 12, 17, 22, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 22
+b. 27
+c. 31
+d. 32
+
 ---
 
-### Section B - Programming / Swift Basics
+### Section 2: Programming Test
 
-Question 7
+Question 26
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -91,38 +305,34 @@ b. `18`
 c. `9`
 d. `0`
 
-Question 8
+Question 27
 Question text
 Which Swift implementation correctly calculates the average of an array of Doubles, returning `nil` if the array is empty?
 Select one:
-a.
-```swift
+a. ```swift
 func average(_ items: [Double]) -> Double? {
     guard !items.isEmpty else { return nil }
     return items.reduce(0, +) / Double(items.count)
 }
 ```
-b.
-```swift
+b. ```swift
 func average(_ items: [Double]) -> Double? {
     return items.reduce(0, +) / Double(items.count)
 }
 ```
-c.
-```swift
+c. ```swift
 func average(_ items: [Double]) -> Double? {
     if items.isEmpty { return 0 }
     return items.reduce(0, +)
 }
 ```
-d.
-```swift
+d. ```swift
 func average(_ items: [Double]) -> Double? {
     return items.max()
 }
 ```
 
-Question 9
+Question 28
 Question text
 Which statement best explains optional binding using `if let` in Swift?
 Select one:
@@ -131,7 +341,7 @@ b. It safely checks if an optional contains a value, and if so, unwraps it into 
 c. It makes a variable globally accessible across all screens.
 d. It compiles optionals into reference types.
 
-Question 10
+Question 29
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -145,39 +355,35 @@ b. `[5]`
 c. `["swift"]`
 d. `[]`
 
-Question 11
+Question 30
 Question text
 Which implementation correctly completes the function `normalize(_:)` to trim whitespace and returns `"N/A"` if the text is `nil` or empty?
 Select one:
-a.
-```swift
+a. ```swift
 func normalize(_ text: String?) -> String {
     guard let text else { return "N/A" }
     let trimmed = text.trimmingCharacters(in: .whitespacesAndNewlines)
     return trimmed.isEmpty ? "N/A" : trimmed
 }
 ```
-b.
-```swift
+b. ```swift
 func normalize(_ text: String?) -> String {
     return text!.trimmingCharacters(in: .whitespaces)
 }
 ```
-c.
-```swift
+c. ```swift
 func normalize(_ text: String?) -> String {
     return text ?? "N/A"
 }
 ```
-d.
-```swift
+d. ```swift
 func normalize(_ text: String?) -> String {
     let trimmed = text?.trimmingCharacters(in: .whitespacesAndNewlines)
     return trimmed!
 }
 ```
 
-Question 12
+Question 31
 Question text
 Which code snippet safely refactors the following unsafe optional force-unwrapping?
 ```swift
@@ -186,34 +392,26 @@ let n = Int(raw!)!
 print(n + 1)
 ```
 Select one:
-a.
-```swift
+a. ```swift
 let raw: String? = "42"
 if let raw, let n = Int(raw) {
     print(n + 1)
 }
 ```
-b.
-```swift
+b. ```swift
 let raw: String? = "42"
 print(Int(raw) ?? 0 + 1)
 ```
-c.
-```swift
+c. ```swift
 let raw: String? = "42"
 print(Int(raw!)! + 1)
 ```
-d.
-```swift
+d. ```swift
 let raw: String? = "42"
 if raw != nil { print(Int(raw)! + 1) }
 ```
 
----
-
-### Section C - OOP & Swift Concepts
-
-Question 13
+Question 32
 Question text
 What is the difference between identity and equality for class instances in Swift?
 Select one:
@@ -222,7 +420,7 @@ b. Identity checks whether two references point to the exact same object in memo
 c. Identity applies to structs, and equality applies to classes.
 d. There is no distinction; both check for memory addresses.
 
-Question 14
+Question 33
 Question text
 Why do immutable models (declared with `let` in Swift structs) help reduce software bugs?
 Select one:
@@ -231,7 +429,7 @@ b. They prevent unintended modifications from other parts of the codebase, ensur
 c. They allow classes to inherit properties faster.
 d. They force variables to be stored on the stack rather than the heap.
 
-Question 15
+Question 34
 Question text
 When is the `mutating` keyword required before a method definition in a Swift struct?
 Select one:
@@ -240,7 +438,7 @@ b. When the method mutates the stored properties of the structure itself.
 c. When the method is defined inside a class subclass.
 d. When the method is static.
 
-Question 16
+Question 35
 Question text
 Predict the output of the following code snippet:
 ```swift
@@ -259,7 +457,7 @@ b. `15 15`
 c. `10 15`
 d. `15 10`
 
-Question 17
+Question 36
 Question text
 Predict the output of the following Swift code:
 ```swift
@@ -277,12 +475,11 @@ b. `true true`
 c. `false true`
 d. `true false`
 
-Question 18
+Question 37
 Question text
 Which snippet correctly defines a protocol `Trackable` with a method `track(event:)` and implements it in a struct?
 Select one:
-a.
-```swift
+a. ```swift
 protocol Trackable {
     func track(event: String)
 }
@@ -292,138 +489,174 @@ struct Analytics: Trackable {
     }
 }
 ```
-b.
-```swift
+b. ```swift
 class Trackable {
     func track(event: String) {}
 }
 struct Analytics: Trackable {}
 ```
-c.
-```swift
+c. ```swift
 protocol Trackable {
     var event: String { get }
 }
 ```
-d.
-```swift
+d. ```swift
 struct Trackable {
     func track(event: String) {}
 }
 ```
 
----
-
-### Section D - Design & UX
-
-Question 19
+Question 38
 Question text
-For a medication reminder app, which group of features represents the most appropriate MVP (V1) scope?
+What is the output of the following Swift code?
+```swift
+func process(_ input: inout Int) {
+    input += 5
+}
+var score = 10
+process(&score)
+print(score)
+```
 Select one:
-a. Social sharing, medication price comparison, gamified levels, virtual doctor appointments, custom app icons.
-b. Reminder schedule, medication list, adherence log, refill alerts, and caregiver sharing.
-c. AR pill scanner, medical news feed, health insurance portal, community chat forum.
-d. AI dosage recommendations, fitness tracker sync, dark mode, developer blog.
+a. 10
+b. 15
+c. 5
+d. Compilation error
 
-Question 20
+Question 39
 Question text
-Which three design techniques are most effective at reducing cognitive load in a checkout flow?
+Which of the following access levels in Swift restricts access to the defining source file only?
 Select one:
-a. Splitting the flow into separate, small steps (chunking), using plain language labels, and providing default smart selections.
-b. Displaying all fields on a single page, using technical jargon, and forcing manual inputs.
-c. Adding popups for product recommendations, using abstract icons, and changing button positions.
-d. Requiring password verification at every step, using small text, and disabling autofill.
+a. private
+b. fileprivate
+c. internal
+d. public
 
-Question 21
+Question 40
 Question text
-Why is accessibility (a11y) considered a core requirement, rather than a "nice to have" feature?
+What is the output of the following Swift code?
+```swift
+let val: Any = "Swift"
+if let text = val as? Int {
+    print("Int: \(text)")
+} else if let text = val as? String {
+    print("String: \(text)")
+} else {
+    print("Other")
+}
+```
 Select one:
-a. It increases the app's size in the store.
-b. It expands the app's potential user base, promotes digital inclusion, and ensures compliance with legal regulations.
-c. It makes it easier to compile the app for different devices.
-d. It guarantees higher advertising revenue.
+a. `"Int: Swift"`
+b. `"String: Swift"`
+c. `"Other"`
+d. Compilation error
 
-Question 22
+Question 41
 Question text
-A user must grant multiple device permissions (camera, location, notifications) on the first launch of your app. How would you redesign this?
+In Swift, what is a protocol extension?
 Select one:
-a. Request all permissions immediately in a sequence of system alerts on the first splash screen.
-b. Request permissions contextually when the user interacts with a feature that requires them, accompanied by a clear explanation of the user benefits.
-c. Hide the features that require permissions so you never have to ask.
-d. Force the user to go to their device settings manually before they can open the app.
+a. A way to add new requirements to an existing protocol.
+b. A mechanism to provide default implementations for protocol methods, enabling conforming types to inherit behavior without overriding it.
+c. An extension that makes a protocol conform to another protocol.
+d. A class that subclass a protocol definition.
 
-Question 23
+Question 42
 Question text
-An app experiences a high uninstall rate on the first day after download. Which three hypotheses should you test first?
+What is the output of the following Swift code?
+```swift
+var dict = ["a": 1, "b": 2]
+let oldVal = dict.updateValue(3, forKey: "a")
+print(oldVal ?? 0, dict["a"] ?? 0)
+```
 Select one:
-a. App has too few filters, lacks a tablet version, or lacks dark mode.
-b. Weak onboarding value proposition, permission fatigue (asking too much too early), or slow app performance on first run.
-c. Server cost is too high, code has too many files, or UI doesn't use custom fonts.
-d. Marketing ads are too cheap, competitor launched a sale, or database query is not indexed.
+a. 1 3
+b. 3 3
+c. 0 3
+d. 1 1
 
-Question 24
+Question 43
 Question text
-Which of the following represents the most effective rewrite of the weak requirement: "Improve onboarding experience"?
+Which Swift statement is used to execute a code block only if a condition is met, otherwise exiting the current scope?
 Select one:
-a. "Make onboarding better."
-b. "Increase onboarding completion rate from 62% to 80% by reducing the number of screens from 6 to 3 and adding progress indicators."
-c. "The onboarding should load faster and have nicer colors."
-d. "Delete the onboarding flow entirely to make it simple."
+a. check
+b. guard
+c. assert
+d. require
 
----
-
-### Section E - Motivation & Soft Skills
-
-Question 25
+Question 44
 Question text
-Which response best describes a learning habit that helps you improve consistently?
+What is the output of the following Swift code?
+```swift
+let data: [Any] = [1, "two", 3.0]
+let count = data.compactMap { $0 as? String }.count
+print(count)
+```
 Select one:
-a. "I learn by reading books occasionally when I feel motivated."
-b. "I establish a daily coding routine, set specific, measurable learning targets, and build small projects to apply concepts while actively seeking peer feedback."
-c. "I listen to podcasts on double speed while doing other chores."
-d. "I try to memorize code snippets so I don't have to think during tests."
+a. 1
+b. 3
+c. 0
+d. 2
 
-Question 26
+Question 45
 Question text
-A team discussion results in constructive feedback that contradicts your proposed solution. How do you respond?
+What is a major advantage of utilizing generic functions or types in Swift?
 Select one:
-a. Acknowledge the team's feedback, analyze their points objectively, and adapt my solution to incorporate their suggestions, recognizing that a better overall product is the goal.
-b. Argue my case repeatedly until the team gets tired and yields to my idea.
-c. Withdraw from the discussion and let others make all the decisions.
-d. Implement my original solution in secret anyway.
+a. They speed up execution speeds because compiler ignores type checks.
+b. They allow writing flexible, reusable code that can work with any type, while maintaining static type safety.
+c. They automatically convert value types to reference types.
+d. They eliminate the need to use optionals.
 
-Question 27
+Question 46
 Question text
-You are working under a tight deadline and need to balance speed and quality. How do you approach this tradeoff?
+What is the output of the following Swift code?
+```swift
+var value1: Int? = 5
+var value2: Int? = nil
+print((value1 ?? 10) + (value2 ?? 10))
+```
 Select one:
-a. Focus only on speed, skipping code reviews and testing to meet the date.
-b. Prioritize the core features, maintain clean coding standards for that path, write tests for critical functions, and log any non-critical technical debt to resolve immediately after launch.
-c. Extend the deadline unilaterally without telling the team.
-d. Write messy code quickly and assume someone else will clean it up later.
+a. 15
+b. 20
+c. 5
+d. 10
 
-Question 28
+Question 47
 Question text
-What does empathy look like in technical collaboration?
+In Swift, what happens when you modify a property of a struct instance that is assigned to a constant (`let`) variable?
 Select one:
-a. Coding everything for your teammates so they don't have to deal with stress.
-b. Active listening, seeking to understand your teammates' technical constraints, offering support when they struggle, and explaining technical concepts without condescension.
-c. Criticizing peers openly when they write buggy code so they improve.
-d. Letting teammates make mistakes so they learn the hard way.
+a. The property changes successfully if it is declared with `var`.
+b. The compiler throws an error because the struct is a value type and its instance is immutable.
+c. The property changes, but a compiler warning is printed.
+d. The struct is converted to a class type dynamically.
 
-Question 29
+Question 48
 Question text
-Which app domain motivation statement demonstrates the strongest drive and alignment with the Academy?
+What is the primary difference between `weak` and `unowned` references in Swift?
 Select one:
-a. "I want to build whatever app domain gets the most downloads."
-b. "I am motivated to build apps in the educational accessibility domain, using simplified interfaces to help students with learning differences access study materials, which aligns with my passion for inclusive education."
-c. "I want to build a clone of a messaging app to practice coding."
-d. "I don't mind the domain as long as the code is easy to write."
+a. weak references are value types, while unowned are reference types.
+b. weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation.
+c. weak is used for structs, while unowned is used for classes.
+d. There is no difference; they are aliases.
 
-Question 30
+Question 49
 Question text
-How do you plan to support peers from non-technical backgrounds in a cross-functional cohort?
+What is the output of the following Swift code?
+```swift
+let names = ["Alice", "Bob", "Charlie"]
+let result = names.filter { $0.count < 5 }.map { $0.uppercased() }
+print(result)
+```
 Select one:
-a. By taking over their work so they don't have to code.
-b. By explaining programming concepts using simple, non-jargon analogies, inviting their input on design and domain logic, and creating a supportive space where no question is considered too basic.
-c. By ignoring them and working only with technical peers.
-d. By telling them to learn programming from online tutorials before talking to you.
+a. `["ALICE", "BOB"]`
+b. `["BOB"]`
+c. `["ALICE", "CHARLIE"]`
+d. `["BOB", "ALICE"]`
+
+Question 50
+Question text
+Which of the following is true about ARC (Automatic Reference Counting) in Swift?
+Select one:
+a. ARC periodically runs garbage collection routines on a background thread.
+b. ARC only tracks references of class instances; it does not apply to structs and enums.
+c. ARC automatically resolves all strong reference cycles.
+d. ARC requires manual release statements from the developer.

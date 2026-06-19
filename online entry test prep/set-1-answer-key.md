@@ -2,19 +2,19 @@ Developer Academy - Exam Preparation 2026-2027
 Home
 My courses
  Exam_prep_26-27
- ONLINE ENTRY TEST - ANSWER KEY
- Self-assessment Quiz - Practice Simulation (Sections A-E) - Answer Key
-Started on	Monday, 15 June 2026, 8:00 AM
+ SECTION 1 - Practice Set 1 - ANSWER KEY
+ Self-assessment Quiz for Practice Set 1 - Answer Key
+Started on	Monday, 15 June 2026, 10:00 AM
 State	Finished
-Completed on	Monday, 15 June 2026, 9:30 AM
-Time taken	1 hour 30 mins
-Grade	42 out of 42 (100%)
+Completed on	Monday, 15 June 2026, 12:00 PM
+Time taken	2 hours
+Grade	50 out of 50 (100%)
 Feedback	
-Well done! This is the answer key and reasoning for the practice simulation.
+Well done! This is the answer key and feedback for Practice Set 1.
 
 ---
 
-### Section A - Logic & Reasoning
+### Section 1: Logic Test
 
 Question 1
 Correct
@@ -149,9 +149,267 @@ The correct answer is: Turn on switch 1 for a few minutes, turn it off, turn on 
 
 ---
 
-### Section B - Swift Fundamentals
-
 Question 10
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `5, 10, 15, 20, 25, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 25
+b. 30 Correct! The sequence is arithmetic, where each term increases by a constant difference of 5 (5 + 5 = 10, etc.). The next term is 25 + 5 = 30.
+c. 33
+d. 35
+Feedback
+The correct answer is: 30
+
+Question 11
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Consider the following argument:
+'Everyone uses our app, so it must be the best designed app in the store.'
+
+Which fallacy is committed here?
+Select one:
+a. Slippery Slope
+b. Ad Populum (Bandwagon Fallacy) Correct! The bandwagon fallacy (Ad Populum) occurs when an argument asserts that a claim is correct or good simply because it is popular or widely accepted.
+c. Circular Reasoning
+d. False Analogy
+Feedback
+The correct answer is: Ad Populum (Bandwagon Fallacy)
+
+Question 12
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Worker A can complete a software module in `5 hours`, and Worker B can complete the same module in `20 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 12 hours
+b. 3 hours
+c. 4 hours Correct! Combined rate of work is 1/5 + 1/20 = (5+20)/(5*20). The time taken is (5*20)/(5+20) = 100/25 = 4 hours.
+d. 6 hours
+Feedback
+The correct answer is: 4 hours
+
+Question 13
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+If all software architectures are patterns, and no patterns are simple, can we conclude that no software architectures are simple?
+Select one:
+a. Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C. Correct! This is a valid syllogism (Celarent). If all A (software architectures) are B (patterns), and no B (patterns) are C (simple), then no A can be C. The sets A and C are completely disjoint.
+b. No, because some software architectures could be simple through extensions.
+c. Yes, because simplicity is subjective in software architecture.
+d. No, because a pattern could be simple if it is well-documented.
+Feedback
+The correct answer is: Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C.
+
+Question 14
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `40, 45, 42, 47, 44, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 44
+b. 49 Correct! The pattern alternates: add 5 to odd indices and subtract 3 from even indices. Following this rule, the next difference is 5. Hence, 44 + 5 = 49.
+c. 52
+d. 54
+Feedback
+The correct answer is: 49
+
+Question 15
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Identify the logical fallacy in this statement:
+'Why is our algorithm so fast? Because it executes processes in a very short amount of time!'
+Select one:
+a. False Analogy
+b. Circular Reasoning (Begging the Question) Correct! Circular reasoning occurs when the premise and conclusion are identical or simply rephrased. Saying an algorithm is fast *because* it executes in a short amount of time is circular, as 'fast' and 'short amount of time' are definitions of the same concept.
+c. False Cause
+d. Slippery Slope
+Feedback
+The correct answer is: Circular Reasoning (Begging the Question)
+
+Question 16
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `16, 18, 20, 22, 24, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 24
+b. 26 Correct! The sequence is arithmetic, where each term increases by a constant difference of 2 (16 + 2 = 18, etc.). The next term is 24 + 2 = 26.
+c. 28
+d. 30
+Feedback
+The correct answer is: 26
+
+Question 17
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+If no compiled code is interpreted, and some Swift programs are compiled code, can we conclude that some Swift programs are not interpreted?
+Select one:
+a. Yes, because the Swift programs that are compiled code cannot be interpreted. Correct! This is a valid syllogism (Festino). If some Swift programs are compiled, and no compiled code is interpreted, then those compiled Swift programs are definitely not interpreted.
+b. No, because all Swift programs are eventually interpreted by the compiler.
+c. Yes, because Swift is a compiled language only.
+d. No, because compiled code is a subset of interpreted code.
+Feedback
+The correct answer is: Yes, because the Swift programs that are compiled code cannot be interpreted.
+
+Question 18
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Worker A can complete a software module in `5 hours`, and Worker B can complete the same module in `20 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 12 hours
+b. 3 hours
+c. 4 hours Correct! Combined rate of work is 1/5 + 1/20 = (5+20)/(5*20). The time taken is (5*20)/(5+20) = 100/25 = 4 hours.
+d. 6 hours
+Feedback
+The correct answer is: 4 hours
+
+Question 19
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Consider this rule in a library:
+'If a book has a red sticker, it is a reference book. Reference books cannot be checked out.'
+
+If you find a book that does not have a red sticker, what can you conclude?
+Select one:
+a. It can be checked out.
+b. It is not a reference book.
+c. It cannot be checked out.
+d. No conclusion can be drawn about whether it can be checked out. Correct! Having a red sticker is a sufficient condition for being a reference book, but not necessarily a necessary one. There could be reference books without red stickers. Furthermore, non-reference books might also have checkout restrictions for other reasons. Therefore, no conclusion can be drawn.
+Feedback
+The correct answer is: No conclusion can be drawn about whether it can be checked out.
+
+Question 20
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `39, 50, 47, 58, 55, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 55
+b. 66 Correct! The pattern alternates: add 11 to odd indices and subtract 3 from even indices. Following this rule, the next difference is 11. Hence, 55 + 11 = 66.
+c. 69
+d. 71
+Feedback
+The correct answer is: 66
+
+Question 21
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Five students (A, B, C, D, and E) took an exam. We know:
+- A scored higher than B.
+- C scored lower than D.
+- E scored higher than A but lower than D.
+
+Who achieved the highest score?
+Select one:
+a. A
+b. D Correct! From the clues: A > B, D > C, and D > E > A. Combining these: D > E > A > B. This gives the order of D, E, A, B. C is lower than D. Since D is higher than E, A, B, and C, D must have the highest score.
+c. E
+d. Cannot be determined
+Feedback
+The correct answer is: D
+
+Question 22
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `16, 24, 32, 40, 48, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 48
+b. 56 Correct! The sequence is arithmetic, where each term increases by a constant difference of 8 (16 + 8 = 24, etc.). The next term is 48 + 8 = 56.
+c. 61
+d. 64
+Feedback
+The correct answer is: 56
+
+Question 23
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Consider the statement:
+'Unless you pass the coding challenge, you will not get an interview.'
+
+Which of the following is logically equivalent to this statement?
+Select one:
+a. If you pass the coding challenge, you will get an interview.
+b. If you get an interview, you passed the coding challenge. Correct! 'Unless P, not Q' is equivalent to 'If Q, then P'. It means P is a necessary condition for Q. So, getting an interview (Q) requires passing the challenge (P). Thus, 'If you get an interview, you must have passed the coding challenge.'
+c. If you do not get an interview, you did not pass the coding challenge.
+d. Passing the coding challenge guarantees you an interview.
+Feedback
+The correct answer is: If you get an interview, you passed the coding challenge.
+
+Question 24
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Worker A can complete a software module in `8 hours`, and Worker B can complete the same module in `24 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 16 hours
+b. 5 hours
+c. 6 hours Correct! Combined rate of work is 1/8 + 1/24 = (8+24)/(8*24). The time taken is (8*24)/(8+24) = 192/32 = 6 hours.
+d. 8 hours
+Feedback
+The correct answer is: 6 hours
+
+Question 25
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Four cards have a letter on one side and a number on the other. You see:
+`[E]` `[K]` `[4]` `[7]`
+
+Rule: 'If a card has a vowel on one side, it must have an even number on the other side.'
+
+Which card(s) must you turn over to prove the rule?
+Select one:
+a. Only [E]
+b. [E] and [4]
+c. [E] and [7] Correct! To test 'If Vowel (P) -> Even (Q)', we must check:
+1. P: Vowel card `[E]` (to see if it has an even number on the back).
+2. Not Q: Odd card `[7]` (to ensure it does *not* have a vowel on the back, which would violate the rule). Checking `[K]` (not P) or `[4]` (Q) is not necessary.
+d. All four cards
+Feedback
+The correct answer is: [E] and [7]
+
+---
+
+### Section 2: Programming Test
+
+Question 26
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -169,33 +427,29 @@ d. `2, 3, 4`
 Feedback
 The correct answer is: `[2, 3, 4]`
 
-Question 11
+Question 27
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which implementation of the function correctly and efficiently returns only odd numbers from an array of integers?
 Select one:
-a.
-```swift
+a. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }
 }
 ``` Correct! The `filter` method retains only elements that satisfy the condition `$0 % 2 != 0` (odd integers).
-b.
-```swift
+b. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 % 2 != 0 ? $0 : nil }.compactMap { $0 }
 }
 ```
-c.
-```swift
+c. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 / 2 != 0 }
 }
 ```
-d.
-```swift
+d. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     var result = [Int]()
     for n in numbers {
@@ -205,14 +459,13 @@ func oddNumbers(_ numbers: [Int]) -> [Int] {
 }
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }
 }
 ```
 
-Question 12
+Question 28
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -226,7 +479,7 @@ d. A non-optional string variable initialized to an empty string.
 Feedback
 The correct answer is: An optional variable that can hold either a `String` value or `nil`.
 
-Question 13
+Question 29
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -245,7 +498,7 @@ d. `[4, 6, 8]`
 Feedback
 The correct answer is: `[3, 4]`
 
-Question 14
+Question 30
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -264,7 +517,7 @@ d. `return scores.filter { $0 > 0 }`
 Feedback
 The correct answer is: `return scores.reduce(0, +)`
 
-Question 15
+Question 31
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -282,7 +535,7 @@ d. `print(text.count)`
 Feedback
 The correct answer is: `print(text?.count ?? 0)`
 
-Question 16
+Question 32
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -301,46 +554,41 @@ d. `13`
 Feedback
 The correct answer is: `4`
 
-Question 17
+Question 33
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which Swift implementation receives `[Int]` and returns only even numbers, sorted descending, and each multiplied by 10?
 Select one:
-a.
-```swift
+a. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.sorted(by: >).map { $0 * 10 }
 }
 ``` Correct! This chain filters for even numbers first, sorts them in descending order (`>`), and then maps them by multiplying by 10.
-b.
-```swift
+b. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 * 10 }.filter { $0 % 2 == 0 }.sorted()
 }
 ```
-c.
-```swift
+c. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
-d.
-```swift
+d. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.map { $0 * 10 }.sorted()
 }
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
 
-Question 18
+Question 34
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -356,9 +604,7 @@ The correct answer is: Use `map` to transform every element, `filter` to keep el
 
 ---
 
-### Section C - OOP & Swift Concepts
-
-Question 19
+Question 35
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -372,7 +618,7 @@ d. Structs must always be declared with `let`, and classes must be declared with
 Feedback
 The correct answer is: Structs are value types (copied on assignment), whereas classes are reference types (shared instance).
 
-Question 20
+Question 36
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -386,7 +632,7 @@ d. It is a variable that is optional to declare in classes.
 Feedback
 The correct answer is: It is a type representing a value that may or may not exist, forcing safe handling to prevent null pointer exceptions.
 
-Question 21
+Question 37
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -400,30 +646,7 @@ d. Protocols
 Feedback
 The correct answer is: Classes
 
-Question 22
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-Predict the output of the following code snippet:
-```swift
-struct Counter {
-    var value: Int
-}
-var a = Counter(value: 1)
-var b = a
-b.value = 10
-print(a.value, b.value)
-```
-Select one:
-a. `1 1`
-b. `10 10`
-c. `1 10` Correct! Since `Counter` is a `struct` (value type), assigning `a` to `b` copies the value. Modifying `b.value` does not affect `a`.
-d. `10 1`
-Feedback
-The correct answer is: `1 10`
-
-Question 23
+Question 38
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -447,15 +670,14 @@ d. `10 1`
 Feedback
 The correct answer is: `10 10`
 
-Question 24
+Question 39
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which implementation defines a protocol `Payable` with a method `pay(amount:)` and shows a type conforming to it?
 Select one:
-a.
-```swift
+a. ```swift
 protocol Payable {
     func pay(amount: Double)
 }
@@ -465,28 +687,24 @@ struct Wallet: Payable {
     }
 }
 ``` Correct! This correctly defines the protocol and provides a struct that conforms to it by implementing the required method.
-b.
-```swift
+b. ```swift
 class Payable {
     func pay(amount: Double) {}
 }
 struct Wallet: Payable {}
 ```
-c.
-```swift
+c. ```swift
 protocol Payable {
     var amount: Double { get }
 }
 ```
-d.
-```swift
+d. ```swift
 struct Payable {
     func pay(amount: Double) {}
 }
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 protocol Payable {
     func pay(amount: Double)
 }
@@ -497,7 +715,7 @@ struct Wallet: Payable {
 }
 ```
 
-Question 25
+Question 40
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -511,7 +729,7 @@ d. Structs use reference semantics, which helps prevent memory cycles.
 Feedback
 The correct answer is: Value semantics isolate state changes per copy (preventing unintended shared-state bugs), while reference semantics share instances (enabling shared mutable state, but introducing potential side effects).
 
-Question 26
+Question 41
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -525,7 +743,7 @@ d. When the class is in a protocol.
 Feedback
 The correct answer is: When inheritance is not intended, which prevents subclassing, protects architecture intent, and enables compiler performance optimizations.
 
-Question 27
+Question 42
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -541,219 +759,144 @@ The correct answer is: A `class` because it allows multiple parts of the app to 
 
 ---
 
-### Section D - Design & UX
-
-Question 28
+Question 43
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-For a coworking booking app, which group of features represents the most appropriate MVP (V1) scope?
+What is the output of the following Swift code?
+```swift
+var value1: Int? = 5
+var value2: Int? = nil
+print((value1 ?? 10) + (value2 ?? 10))
+```
 Select one:
-a. AI chatbot, dark mode, social media sharing, animated stickers, custom fonts.
-b. Location search, date/time selection, room availability view, booking confirmation, payment. Correct! An MVP should contain the core user journey required to solve the primary problem.
-c. Interactive 3D maps, virtual reality tour, premium membership tiers, referral rewards, guest chat.
-d. Advanced analytics, team check-in history, push reminders for reviews, dynamic pricing algorithms.
+a. 15 Correct! The nil-coalescing operator `??` provides a default value if the optional is nil. `value1 ?? 10` evaluates to 5. `value2 ?? 10` evaluates to 10. The sum is 5 + 10 = 15.
+b. 20
+c. 5
+d. 10
 Feedback
-The correct answer is: Location search, date/time selection, room availability view, booking confirmation, payment.
+The correct answer is: 15
 
-Question 29
+Question 44
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Which 3 techniques are most effective to make navigation clearer for first-time app users?
+In Swift, what happens when you modify a property of a struct instance that is assigned to a constant (`let`) variable?
 Select one:
-a. Use small font size, hide navigation tabs, and add decorative gestures.
-b. Use clear labels, maintain a predictable tab structure, and ensure consistent back behavior. Correct! Clear labels and predictable structures minimize friction and cognitive load for new users.
-c. Add modal popups for every button, implement custom back buttons, and use vertical tabs.
-d. Replace text with abstract icons, use hidden swipe gestures, and add full-screen introductions.
+a. The property changes successfully if it is declared with `var`.
+b. The compiler throws an error because the struct is a value type and its instance is immutable. Correct! Structs are value types. When a value type is declared as a constant with `let`, all of its properties are also constant, even if they are declared with `var`. Attempting to mutate them results in a compilation error.
+c. The property changes, but a compiler warning is printed.
+d. The struct is converted to a class type dynamically.
 Feedback
-The correct answer is: Use clear labels, maintain a predictable tab structure, and ensure consistent back behavior.
+The correct answer is: The compiler throws an error because the struct is a value type and its instance is immutable.
 
-Question 30
+Question 45
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Why is consistency in mobile user interface (UI) design highly important?
+What is the primary difference between `weak` and `unowned` references in Swift?
 Select one:
-a. It prevents the developer from making changes.
-b. It reduces cognitive load and learning time because users can transfer their knowledge from one part of the app to another. Correct! Consistent patterns mean users don't have to relearn how to interact with different screens.
-c. It guarantees that the app will build faster.
-d. It ensures that the app looks exactly like every other app on the market.
+a. weak references are value types, while unowned are reference types.
+b. weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation. Correct! weak references must be declared as variables of optional type because they can become nil at runtime when the referenced object is deallocated. unowned references are assumed to always have a value, so they are non-optional; accessing them after the object is deallocated leads to a runtime crash.
+c. weak is used for structs, while unowned is used for classes.
+d. There is no difference; they are aliases.
 Feedback
-The correct answer is: It reduces cognitive load and learning time because users can transfer their knowledge from one part of the app to another.
+The correct answer is: weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation.
 
-Question 31
+Question 46
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-You are told you must cut the development scope of an app by 40% before the launch. What is the best strategy?
+What is the output of the following Swift code?
+```swift
+let names = ["Alice", "Bob", "Charlie"]
+let result = names.filter { $0.count < 5 }.map { $0.uppercased() }
+print(result)
+```
 Select one:
-a. Remove testing and documentation to speed up development.
-b. Focus only on the core user journey (e.g., discovery -> select -> book -> pay -> confirmation) and defer non-core extras. Correct! Prioritizing the critical paths preserves user value under resource constraints.
-c. Keep all features but implement them with lower quality.
-d. Cut the payment integration and let users use the app for free.
+a. `["ALICE", "BOB"]`
+b. `["BOB"]` Correct! Filtering names with character count less than 5 leaves only `"Bob"` (count 3). `"Alice"` has 5 characters and `"Charlie"` has 7. Mapping `"Bob"` to uppercase yields `"BOB"`. Thus, output is `["BOB"]`.
+c. `["ALICE", "CHARLIE"]`
+d. `["BOB", "ALICE"]`
 Feedback
-The correct answer is: Focus only on the core user journey (e.g., discovery -> select -> book -> pay -> confirmation) and defer non-core extras.
+The correct answer is: `["BOB"]`
 
-Question 32
+Question 47
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-A user feedback report indicates that the onboarding flow is "confusing." Which three data points should you collect first to diagnose this?
+Which of the following is true about ARC (Automatic Reference Counting) in Swift?
 Select one:
-a. App store rating, download size, and competitor features.
-b. Step-by-step funnel drop-off rates, time spent on each onboarding screen, and qualitative feedback from usability sessions. Correct! Funnel analytics show where users leave, screen time shows friction, and qualitative sessions explain why.
-c. Developer velocity, app crash logs, and storage usage.
-d. Number of page shares, social logins, and notification opt-ins.
+a. ARC periodically runs garbage collection routines on a background thread.
+b. ARC only tracks references of class instances; it does not apply to structs and enums. Correct! ARC applies only to reference types (classes). Since structs and enums are value types, they are copied on assignment and do not participate in reference counting.
+c. ARC automatically resolves all strong reference cycles.
+d. ARC requires manual release statements from the developer.
 Feedback
-The correct answer is: Step-by-step funnel drop-off rates, time spent on each onboarding screen, and qualitative feedback from usability sessions.
+The correct answer is: ARC only tracks references of class instances; it does not apply to structs and enums.
 
-Question 33
+Question 48
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Which of the following represents the most effective rewrite of the weak requirement: "Make booking flow better"?
+What is the output of the following Swift code?
+```swift
+struct StepCounter {
+    var steps = 0 {
+        didSet {
+            if steps < oldValue {
+                steps = oldValue
+            }
+        }
+    }
+}
+var counter = StepCounter()
+counter.steps = 10
+counter.steps = 5
+print(counter.steps)
+```
 Select one:
-a. "Improve booking UI aesthetics."
-b. "Reduce median booking completion time from 4m30s to under 2m30s by removing one form step and enabling autofill." Correct! This is measurable, specific, and links the goal to concrete changes.
-c. "The booking flow should be extremely easy for everyone."
-d. "Add more buttons to the booking screen."
+a. 5
+b. 10 Correct! In `didSet`, the code checks if the new value of `steps` is less than `oldValue` (which was 10). Since 5 < 10, it overrides `steps` back to `oldValue` (10). Thus, the printed output is 10.
+c. 0
+d. 15
 Feedback
-The correct answer is: "Reduce median booking completion time from 4m30s to under 2m30s by removing one form step and enabling autofill."
+The correct answer is: 10
 
-Question 34
+Question 49
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Critique this flow from a Human Interface Guidelines (HIG) perspective:
-`Home -> 7-step booking form -> payment -> confirmation`
+Which Swift keyword is used to allow a struct's method to modify its own properties?
 Select one:
-a. The flow is perfect because more steps ensure data accuracy.
-b. The flow creates high friction. It should be simplified by reducing booking to 3-4 steps, showing progress, prefilling data, delaying non-critical inputs, and enabling guest checkout. Correct! Minimizing friction and steps is a core HIG principle for mobile interactions.
-c. The payment step should be moved to the beginning of the flow.
-d. The form should be split into 10 separate screens to look cleaner.
+a. modifying
+b. mutating Correct! By default, the properties of a value type cannot be modified from within its instance methods. To write a method that mutates properties, you must prepend the method declaration with the `mutating` keyword.
+c. inout
+d. update
 Feedback
-The correct answer is: The flow creates high friction. It should be simplified by reducing booking to 3-4 steps, showing progress, prefilling data, delaying non-critical inputs, and enabling guest checkout.
+The correct answer is: mutating
 
-Question 35
+Question 50
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-An e-commerce app has a high drop-off rate at the payment screen. Which hypothesis-driven test plan is most appropriate?
+What is the output of the following Swift code?
+```swift
+let numbers = [1, 2, nil, 4, nil, 6]
+let result = numbers.compactMap { $0 }.map { $0 * 2 }
+print(result)
+```
 Select one:
-a. Hypothesis A: unexpected fees cause exits; Hypothesis B: too many fields cause friction. Experiment A: show fees early; Experiment B: simplify forms. Measure payment completion rates. Correct! This tests clear hypotheses with specific experiments and tracks relevant metrics.
-b. Hypothesis A: users don't like the product; Hypothesis B: app is too fast. Experiment: change logo. Measure daily active users.
-c. Hypothesis A: payment screen needs dark mode; Hypothesis B: payment should be free. Experiment: add dark mode. Measure downloads.
-d. Hypothesis: people are busy. Experiment: send daily reminder emails. Measure open rates.
+a. `[2, 4, 8, 12]` Correct! `compactMap` unwraps the optionals and discards all `nil` values, resulting in `[1, 2, 4, 6]`. The subsequent `map` multiplies each element by 2, yielding `[2, 4, 8, 12]`.
+b. `[2, 4, nil, 8, nil, 12]`
+c. `[2, 4, 6]`
+d. `[1, 2, 4, 6]`
 Feedback
-The correct answer is: Hypothesis A: unexpected fees cause exits; Hypothesis B: too many fields cause friction. Experiment A: show fees early; Experiment B: simplify forms. Measure payment completion rates.
-
-Question 36
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-How would you design accessibility support for users with visual and mobility constraints in a transit app?
-Select one:
-a. Focus on standard designs and ignore accessibility unless requested.
-b. Implement screen-reader labels (VoiceOver), large touch targets with high contrast, step-free route indicators, and a feedback loop for accessibility updates. Correct! This directly addresses the needs of visual and mobility impaired users.
-c. Add complex gesture shortcuts and small text to save screen space.
-d. Create a separate app specifically for disabled users.
-Feedback
-The correct answer is: Implement screen-reader labels (VoiceOver), large touch targets with high contrast, step-free route indicators, and a feedback loop for accessibility updates.
-
----
-
-### Section E - Motivation & Soft Skills
-
-Question 37
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-Which response best explains why you want to join the Apple Developer Academy this year rather than later?
-Select one:
-a. "I have free time this year, and my friends are also applying, so it seemed like a fun thing to do."
-b. "The Academy matches my immediate learning goals of transitioning to mobile development, collaborating in cross-functional teams, and building apps that solve real-world problems today." Correct! This demonstrates alignment with the Academy's core values, clear intent, and readiness for current engagement.
-c. "I am waiting to see if I get a better job offer first; if not, I will join."
-d. "I think the Academy will make it easy to get a certification with minimum effort."
-Feedback
-The correct answer is: "The Academy matches my immediate learning goals of transitioning to mobile development, collaborating in cross-functional teams, and building apps that solve real-world problems today."
-
-Question 38
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-You started a personal coding project but did not finish it. How do you reflect on this experience?
-Select one:
-a. "It was a waste of time, and I realized that coding is too hard for me."
-b. "I analyzed why I stopped—which was lack of structured scope. I learned to scope projects into smaller, achievable milestones, a practice I now apply to ensure project completion." Correct! This demonstrates reflection, self-awareness, and constructive learning from failure.
-c. "The project was perfect, but my teammates were lazy, so I abandoned it."
-d. "I don't think about it; unfinished projects are normal and don't need explanation."
-Feedback
-The correct answer is: "I analyzed why I stopped—which was lack of structured scope. I learned to scope projects into smaller, achievable milestones, a practice I now apply to ensure project completion."
-
-Question 39
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-During a project review, you receive critical feedback on your UI design. How should you respond?
-Select one:
-a. Defend your design choices immediately to prove the feedback is wrong.
-b. Listen actively, acknowledge the feedback, ask clarifying questions to understand the underlying issues, and iterate on the design to address the concerns. Correct! This shows a growth mindset, openness to feedback, and collaborative problem-solving.
-c. Agree with the feedback but ignore it in the next design iteration.
-d. Report the feedback giver to the team lead for criticizing your work.
-Feedback
-The correct answer is: Listen actively, acknowledge the feedback, ask clarifying questions to understand the underlying issues, and iterate on the design to address the concerns.
-
-Question 40
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-What is your first move when a conflict arises within your project team, and why?
-Select one:
-a. Vote to remove the dissenting teammate to restore peace.
-b. Listen to all perspectives empathetically to find the root cause, seeking common ground and collaborative alignment rather than enforcing individual opinions. Correct! This prioritizes empathy and team cohesion over personal ego.
-c. Avoid the conflict and let the team figure it out on their own.
-d. Escalate the conflict to the instructors immediately without trying to resolve it.
-Feedback
-The correct answer is: Listen to all perspectives empathetically to find the root cause, seeking common ground and collaborative alignment rather than enforcing individual opinions.
-
-Question 41
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-Which app idea description demonstrates the strongest user-centered, problem-first thinking?
-Select one:
-a. "An app that uses complex blockchain algorithms just because the technology is trending."
-b. "An app that helps local farmers sell surplus produce directly to nearby households, reducing food waste and lowering grocery costs for families based on community interviews." Correct! This addresses a validated user problem with a clear benefit.
-c. "A clone of a popular app with a different color scheme."
-d. "An app designed to show ads to users so I can earn passive income quickly."
-Feedback
-The correct answer is: An app that helps local farmers sell surplus produce directly to nearby households, reducing food waste and lowering grocery costs for families based on community interviews.
-
-Question 42
-Correct
-Mark 1 out of 1
-Not flaggedFlag question
-Question text
-If selected for the Apple Developer Academy, how will you contribute to the learning of your peers?
-Select one:
-a. By doing all the work myself to ensure the project gets a perfect score.
-b. By actively sharing my technical knowledge, facilitating group learning, offering constructive feedback, and listening to peers with different backgrounds. Correct! This shows a collaborative learning attitude that aligns with the Academy's peer-to-peer learning philosophy.
-c. By focusing solely on my own projects and ignoring other students' issues.
-d. By criticizing teammates when they make mistakes so they learn faster.
-Feedback
-The correct answer is: By actively sharing my technical knowledge, facilitating group learning, offering constructive feedback, and listening to peers with different backgrounds.
+The correct answer is: `[2, 4, 8, 12]`

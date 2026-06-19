@@ -2,14 +2,14 @@ Developer Academy - Exam Preparation 2026-2027
 Home
 My courses
  Exam_prep_26-27
- ONLINE ENTRY TEST - PRACTICE
- Self-assessment Quiz - Practice Simulation (Sections A-E)
-Time limit: 90 minutes
-Suggested split: A 20m, B 20m, C 15m, D 15m, E 20m
+ SECTION 1 - Practice Set 1
+ Self-assessment Quiz for Practice Set 1
+Time limit: 120 minutes
+Suggested split: Section 1 (60 minutes), Section 2 (60 minutes)
 
 ---
 
-### Section A - Logic & Reasoning
+### Section 1: Logic Test
 
 Question 1
 Question text
@@ -97,11 +97,185 @@ b. Turn on all three switches, then enter the room and trace the wires.
 c. Turn on switch 1 and 2, enter the room, and guess which one controls the brighter lamp.
 d. Enter the room first, then call a teammate to flip the switches one by one.
 
+Question 10
+Question text
+Number pattern: `5, 10, 15, 20, 25, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 25
+b. 30
+c. 33
+d. 35
+
+Question 11
+Question text
+Consider the following argument:
+'Everyone uses our app, so it must be the best designed app in the store.'
+
+Which fallacy is committed here?
+Select one:
+a. Slippery Slope
+b. Ad Populum (Bandwagon Fallacy)
+c. Circular Reasoning
+d. False Analogy
+
+Question 12
+Question text
+Worker A can complete a software module in `5 hours`, and Worker B can complete the same module in `20 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 12 hours
+b. 3 hours
+c. 4 hours
+d. 6 hours
+
+Question 13
+Question text
+If all software architectures are patterns, and no patterns are simple, can we conclude that no software architectures are simple?
+Select one:
+a. Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C.
+b. No, because some software architectures could be simple through extensions.
+c. Yes, because simplicity is subjective in software architecture.
+d. No, because a pattern could be simple if it is well-documented.
+
+Question 14
+Question text
+Number pattern: `40, 45, 42, 47, 44, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 44
+b. 49
+c. 52
+d. 54
+
+Question 15
+Question text
+Identify the logical fallacy in this statement:
+'Why is our algorithm so fast? Because it executes processes in a very short amount of time!'
+Select one:
+a. False Analogy
+b. Circular Reasoning (Begging the Question)
+c. False Cause
+d. Slippery Slope
+
+Question 16
+Question text
+Number pattern: `16, 18, 20, 22, 24, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 24
+b. 26
+c. 28
+d. 30
+
+Question 17
+Question text
+If no compiled code is interpreted, and some Swift programs are compiled code, can we conclude that some Swift programs are not interpreted?
+Select one:
+a. Yes, because the Swift programs that are compiled code cannot be interpreted.
+b. No, because all Swift programs are eventually interpreted by the compiler.
+c. Yes, because Swift is a compiled language only.
+d. No, because compiled code is a subset of interpreted code.
+
+Question 18
+Question text
+Worker A can complete a software module in `5 hours`, and Worker B can complete the same module in `20 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 12 hours
+b. 3 hours
+c. 4 hours
+d. 6 hours
+
+Question 19
+Question text
+Consider this rule in a library:
+'If a book has a red sticker, it is a reference book. Reference books cannot be checked out.'
+
+If you find a book that does not have a red sticker, what can you conclude?
+Select one:
+a. It can be checked out.
+b. It is not a reference book.
+c. It cannot be checked out.
+d. No conclusion can be drawn about whether it can be checked out.
+
+Question 20
+Question text
+Number pattern: `39, 50, 47, 58, 55, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 55
+b. 66
+c. 69
+d. 71
+
+Question 21
+Question text
+Five students (A, B, C, D, and E) took an exam. We know:
+- A scored higher than B.
+- C scored lower than D.
+- E scored higher than A but lower than D.
+
+Who achieved the highest score?
+Select one:
+a. A
+b. D
+c. E
+d. Cannot be determined
+
+Question 22
+Question text
+Number pattern: `16, 24, 32, 40, 48, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 48
+b. 56
+c. 61
+d. 64
+
+Question 23
+Question text
+Consider the statement:
+'Unless you pass the coding challenge, you will not get an interview.'
+
+Which of the following is logically equivalent to this statement?
+Select one:
+a. If you pass the coding challenge, you will get an interview.
+b. If you get an interview, you passed the coding challenge.
+c. If you do not get an interview, you did not pass the coding challenge.
+d. Passing the coding challenge guarantees you an interview.
+
+Question 24
+Question text
+Worker A can complete a software module in `8 hours`, and Worker B can complete the same module in `24 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 16 hours
+b. 5 hours
+c. 6 hours
+d. 8 hours
+
+Question 25
+Question text
+Four cards have a letter on one side and a number on the other. You see:
+`[E]` `[K]` `[4]` `[7]`
+
+Rule: 'If a card has a vowel on one side, it must have an even number on the other side.'
+
+Which card(s) must you turn over to prove the rule?
+Select one:
+a. Only [E]
+b. [E] and [4]
+c. [E] and [7]
+d. All four cards
+
 ---
 
-### Section B - Swift Fundamentals
+### Section 2: Programming Test
 
-Question 10
+Question 26
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -114,30 +288,26 @@ b. `[2, 3, 4]`
 c. `[3, 4, 5]`
 d. `2, 3, 4`
 
-Question 11
+Question 27
 Question text
 Which implementation of the function correctly and efficiently returns only odd numbers from an array of integers?
 Select one:
-a.
-```swift
+a. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }
 }
 ```
-b.
-```swift
+b. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 % 2 != 0 ? $0 : nil }.compactMap { $0 }
 }
 ```
-c.
-```swift
+c. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 / 2 != 0 }
 }
 ```
-d.
-```swift
+d. ```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     var result = [Int]()
     for n in numbers {
@@ -147,7 +317,7 @@ func oddNumbers(_ numbers: [Int]) -> [Int] {
 }
 ```
 
-Question 12
+Question 28
 Question text
 In Swift, what does the declaration `var username: String?` represent?
 Select one:
@@ -156,7 +326,7 @@ b. An optional variable that can hold either a `String` value or `nil`.
 c. A pointer to a String object.
 d. A non-optional string variable initialized to an empty string.
 
-Question 13
+Question 29
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -170,7 +340,7 @@ b. `[1, 2, 3, 4]`
 c. `[2, 3]`
 d. `[4, 6, 8]`
 
-Question 14
+Question 30
 Question text
 Which code snippet correctly completes the function `totalScore(_:)` to return the sum of all elements in the array?
 ```swift
@@ -184,7 +354,7 @@ b. `return scores.reduce(0, +)`
 c. `return scores.sum()`
 d. `return scores.filter { $0 > 0 }`
 
-Question 15
+Question 31
 Question text
 Which refactoring safely handles the optional to print the count of characters without a crash risk if `text` is `nil`?
 ```swift
@@ -197,7 +367,7 @@ b. `print(text!.count ?? 0)`
 c. `if text != nil { print(text.count) }`
 d. `print(text.count)`
 
-Question 16
+Question 32
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -211,36 +381,32 @@ b. `4`
 c. `0`
 d. `13`
 
-Question 17
+Question 33
 Question text
 Which Swift implementation receives `[Int]` and returns only even numbers, sorted descending, and each multiplied by 10?
 Select one:
-a.
-```swift
+a. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
-b.
-```swift
+b. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 * 10 }.filter { $0 % 2 == 0 }.sorted()
 }
 ```
-c.
-```swift
+c. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
-b.
-```swift
+d. ```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.map { $0 * 10 }.sorted()
 }
 ```
 
-Question 18
+Question 34
 Question text
 Which statement best illustrates when to use `map`, `filter`, and `compactMap` in Swift?
 Select one:
@@ -249,11 +415,7 @@ b. Use `map` to transform every element, `filter` to keep elements matching a co
 c. Use `map` for loops, `filter` for if-else logic, and `compactMap` for optional unwrapping.
 d. There is no technical difference between the three functions.
 
----
-
-### Section C - OOP & Swift Concepts
-
-Question 19
+Question 35
 Question text
 What is the fundamental difference between a `struct` and a `class` in Swift?
 Select one:
@@ -262,7 +424,7 @@ b. Structs are value types (copied on assignment), whereas classes are reference
 c. Structs are reference types, whereas classes are value types.
 d. Structs must always be declared with `let`, and classes must be declared with `var`.
 
-Question 20
+Question 36
 Question text
 What is an `Optional` in Swift and why is it useful?
 Select one:
@@ -271,7 +433,7 @@ b. It is a type representing a value that may or may not exist, forcing safe han
 c. It is a config file used to specify compile-time optimization flags.
 d. It is a variable that is optional to declare in classes.
 
-Question 21
+Question 37
 Question text
 Which types in Swift support inheritance?
 Select one:
@@ -280,25 +442,7 @@ b. Enums
 c. Classes
 d. Protocols
 
-Question 22
-Question text
-Predict the output of the following code snippet:
-```swift
-struct Counter {
-    var value: Int
-}
-var a = Counter(value: 1)
-var b = a
-b.value = 10
-print(a.value, b.value)
-```
-Select one:
-a. `1 1`
-b. `10 10`
-c. `1 10`
-d. `10 1`
-
-Question 23
+Question 38
 Question text
 Predict the output of the following code snippet:
 ```swift
@@ -317,12 +461,11 @@ b. `10 10`
 c. `1 10`
 d. `10 1`
 
-Question 24
+Question 39
 Question text
 Which implementation defines a protocol `Payable` with a method `pay(amount:)` and shows a type conforming to it?
 Select one:
-a.
-```swift
+a. ```swift
 protocol Payable {
     func pay(amount: Double)
 }
@@ -332,27 +475,24 @@ struct Wallet: Payable {
     }
 }
 ```
-b.
-```swift
+b. ```swift
 class Payable {
     func pay(amount: Double) {}
 }
 struct Wallet: Payable {}
 ```
-c.
-```swift
+c. ```swift
 protocol Payable {
     var amount: Double { get }
 }
 ```
-d.
-```swift
+d. ```swift
 struct Payable {
     func pay(amount: Double) {}
 }
 ```
 
-Question 25
+Question 40
 Question text
 Which statement best describes the differences and tradeoffs between value semantics and reference semantics in Swift?
 Select one:
@@ -361,7 +501,7 @@ b. Value semantics isolate state changes per copy (preventing unintended shared-
 c. Reference semantics copy data on write, making them safer than value semantics.
 d. Structs use reference semantics, which helps prevent memory cycles.
 
-Question 26
+Question 41
 Question text
 When should you choose to declare a class as a `final class` in Swift?
 Select one:
@@ -370,7 +510,7 @@ b. When inheritance is not intended, which prevents subclassing, protects archit
 c. When the class has only structures inside.
 d. When the class is in a protocol.
 
-Question 27
+Question 42
 Question text
 If you need to share mutable state across multiple screens in an iOS application, which type should you choose?
 Select one:
@@ -379,146 +519,104 @@ b. A `class` because it allows multiple parts of the app to point to and modify 
 c. An `enum` with associated values.
 d. A protocol.
 
----
-
-### Section D - Design & UX
-
-Question 28
+Question 43
 Question text
-For a coworking booking app, which group of features represents the most appropriate MVP (V1) scope?
+What is the output of the following Swift code?
+```swift
+var value1: Int? = 5
+var value2: Int? = nil
+print((value1 ?? 10) + (value2 ?? 10))
+```
 Select one:
-a. AI chatbot, dark mode, social media sharing, animated stickers, custom fonts.
-b. Location search, date/time selection, room availability view, booking confirmation, payment.
-c. Interactive 3D maps, virtual reality tour, premium membership tiers, referral rewards, guest chat.
-d. Advanced analytics, team check-in history, push reminders for reviews, dynamic pricing algorithms.
+a. 15
+b. 20
+c. 5
+d. 10
 
-Question 29
+Question 44
 Question text
-Which 3 techniques are most effective to make navigation clearer for first-time app users?
+In Swift, what happens when you modify a property of a struct instance that is assigned to a constant (`let`) variable?
 Select one:
-a. Use small font size, hide navigation tabs, and add decorative gestures.
-b. Use clear labels, maintain a predictable tab structure, and ensure consistent back behavior.
-c. Add modal popups for every button, implement custom back buttons, and use vertical tabs.
-d. Replace text with abstract icons, use hidden swipe gestures, and add full-screen introductions.
+a. The property changes successfully if it is declared with `var`.
+b. The compiler throws an error because the struct is a value type and its instance is immutable.
+c. The property changes, but a compiler warning is printed.
+d. The struct is converted to a class type dynamically.
 
-Question 30
+Question 45
 Question text
-Why is consistency in mobile user interface (UI) design highly important?
+What is the primary difference between `weak` and `unowned` references in Swift?
 Select one:
-a. It prevents the developer from making changes.
-b. It reduces cognitive load and learning time because users can transfer their knowledge from one part of the app to another.
-c. It guarantees that the app will build faster.
-d. It ensures that the app looks exactly like every other app on the market.
+a. weak references are value types, while unowned are reference types.
+b. weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation.
+c. weak is used for structs, while unowned is used for classes.
+d. There is no difference; they are aliases.
 
-Question 31
+Question 46
 Question text
-You are told you must cut the development scope of an app by 40% before the launch. What is the best strategy?
+What is the output of the following Swift code?
+```swift
+let names = ["Alice", "Bob", "Charlie"]
+let result = names.filter { $0.count < 5 }.map { $0.uppercased() }
+print(result)
+```
 Select one:
-a. Remove testing and documentation to speed up development.
-b. Focus only on the core user journey (e.g., discovery -> select -> book -> pay -> confirmation) and defer non-core extras.
-c. Keep all features but implement them with lower quality.
-d. Cut the payment integration and let users use the app for free.
+a. `["ALICE", "BOB"]`
+b. `["BOB"]`
+c. `["ALICE", "CHARLIE"]`
+d. `["BOB", "ALICE"]`
 
-Question 32
+Question 47
 Question text
-A user feedback report indicates that the onboarding flow is "confusing." Which three data points should you collect first to diagnose this?
+Which of the following is true about ARC (Automatic Reference Counting) in Swift?
 Select one:
-a. App store rating, download size, and competitor features.
-b. Step-by-step funnel drop-off rates, time spent on each onboarding screen, and qualitative feedback from usability sessions.
-c. Developer velocity, app crash logs, and storage usage.
-d. Number of page shares, social logins, and notification opt-ins.
+a. ARC periodically runs garbage collection routines on a background thread.
+b. ARC only tracks references of class instances; it does not apply to structs and enums.
+c. ARC automatically resolves all strong reference cycles.
+d. ARC requires manual release statements from the developer.
 
-Question 33
+Question 48
 Question text
-Which of the following represents the most effective rewrite of the weak requirement: "Make booking flow better"?
+What is the output of the following Swift code?
+```swift
+struct StepCounter {
+    var steps = 0 {
+        didSet {
+            if steps < oldValue {
+                steps = oldValue
+            }
+        }
+    }
+}
+var counter = StepCounter()
+counter.steps = 10
+counter.steps = 5
+print(counter.steps)
+```
 Select one:
-a. "Improve booking UI aesthetics."
-b. "Reduce median booking completion time from 4m30s to under 2m30s by removing one form step and enabling autofill."
-c. "The booking flow should be extremely easy for everyone."
-d. "Add more buttons to the booking screen."
+a. 5
+b. 10
+c. 0
+d. 15
 
-Question 34
+Question 49
 Question text
-Critique this flow from a Human Interface Guidelines (HIG) perspective:
-`Home -> 7-step booking form -> payment -> confirmation`
+Which Swift keyword is used to allow a struct's method to modify its own properties?
 Select one:
-a. The flow is perfect because more steps ensure data accuracy.
-b. The flow creates high friction. It should be simplified by reducing booking to 3-4 steps, showing progress, prefilling data, delaying non-critical inputs, and enabling guest checkout.
-c. The payment step should be moved to the beginning of the flow.
-d. The form should be split into 10 separate screens to look cleaner.
+a. modifying
+b. mutating
+c. inout
+d. update
 
-Question 35
+Question 50
 Question text
-An e-commerce app has a high drop-off rate at the payment screen. Which hypothesis-driven test plan is most appropriate?
+What is the output of the following Swift code?
+```swift
+let numbers = [1, 2, nil, 4, nil, 6]
+let result = numbers.compactMap { $0 }.map { $0 * 2 }
+print(result)
+```
 Select one:
-a. Hypothesis A: unexpected fees cause exits; Hypothesis B: too many fields cause friction. Experiment A: show fees early; Experiment B: simplify forms. Measure payment completion rates.
-b. Hypothesis A: users don't like the product; Hypothesis B: app is too fast. Experiment: change logo. Measure daily active users.
-c. Hypothesis A: payment screen needs dark mode; Hypothesis B: payment should be free. Experiment: add dark mode. Measure downloads.
-d. Hypothesis: people are busy. Experiment: send daily reminder emails. Measure open rates.
-
-Question 36
-Question text
-How would you design accessibility support for users with visual and mobility constraints in a transit app?
-Select one:
-a. Focus on standard designs and ignore accessibility unless requested.
-b. Implement screen-reader labels (VoiceOver), large touch targets with high contrast, step-free route indicators, and a feedback loop for accessibility updates.
-c. Add complex gesture shortcuts and small text to save screen space.
-d. Create a separate app specifically for disabled users.
-
----
-
-### Section E - Motivation & Soft Skills
-
-Question 37
-Question text
-Which response best explains why you want to join the Apple Developer Academy this year rather than later?
-Select one:
-a. "I have free time this year, and my friends are also applying, so it seemed like a fun thing to do."
-b. "The Academy matches my immediate learning goals of transitioning to mobile development, collaborating in cross-functional teams, and building apps that solve real-world problems today."
-c. "I am waiting to see if I get a better job offer first; if not, I will join."
-d. "I think the Academy will make it easy to get a certification with minimum effort."
-
-Question 38
-Question text
-You started a personal coding project but did not finish it. How do you reflect on this experience?
-Select one:
-a. "It was a waste of time, and I realized that coding is too hard for me."
-b. "I analyzed why I stopped—which was lack of structured scope. I learned to scope projects into smaller, achievable milestones, a practice I now apply to ensure project completion."
-c. "The project was perfect, but my teammates were lazy, so I abandoned it."
-d. "I don't think about it; unfinished projects are normal and don't need explanation."
-
-Question 39
-Question text
-During a project review, you receive critical feedback on your UI design. How should you respond?
-Select one:
-a. Defend your design choices immediately to prove the feedback is wrong.
-b. Listen actively, acknowledge the feedback, ask clarifying questions to understand the underlying issues, and iterate on the design to address the concerns.
-c. Agree with the feedback but ignore it in the next design iteration.
-d. Report the feedback giver to the team lead for criticizing your work.
-
-Question 40
-Question text
-What is your first move when a conflict arises within your project team, and why?
-Select one:
-a. Vote to remove the dissenting teammate to restore peace.
-b. Listen to all perspectives empathetically to find the root cause, seeking common ground and collaborative alignment rather than enforcing individual opinions.
-c. Avoid the conflict and let the team figure it out on their own.
-d. Escalate the conflict to the instructors immediately without trying to resolve it.
-
-Question 41
-Question text
-Which app idea description demonstrates the strongest user-centered, problem-first thinking?
-Select one:
-a. "An app that uses complex blockchain algorithms just because the technology is trending."
-b. "An app that helps local farmers sell surplus produce directly to nearby households, reducing food waste and lowering grocery costs for families based on community interviews."
-c. "A clone of a popular app with a different color scheme."
-d. "An app designed to show ads to users so I can earn passive income quickly."
-
-Question 42
-Question text
-If selected for the Apple Developer Academy, how will you contribute to the learning of your peers?
-Select one:
-a. By doing all the work myself to ensure the project gets a perfect score.
-b. By actively sharing my technical knowledge, facilitating group learning, offering constructive feedback, and listening to peers with different backgrounds.
-c. By focusing solely on my own projects and ignoring other students' issues.
-d. By criticizing teammates when they make mistakes so they learn faster.
+a. `[2, 4, 8, 12]`
+b. `[2, 4, nil, 8, nil, 12]`
+c. `[2, 4, 6]`
+d. `[1, 2, 4, 6]`

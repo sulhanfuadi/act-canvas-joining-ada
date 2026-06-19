@@ -2,19 +2,19 @@ Developer Academy - Exam Preparation 2026-2027
 Home
 My courses
  Exam_prep_26-27
- SECTION 3 - Practice Set 4 - ANSWER KEY
+ SECTION 1 - Practice Set 4 - ANSWER KEY
  Self-assessment Quiz for Practice Set 4 - Answer Key
-Started on	Monday, 15 June 2026, 3:00 PM
+Started on	Monday, 15 June 2026, 10:00 AM
 State	Finished
-Completed on	Monday, 15 June 2026, 4:30 PM
-Time taken	1 hour 30 mins
-Grade	30 out of 30 (100%)
+Completed on	Monday, 15 June 2026, 12:00 PM
+Time taken	2 hours
+Grade	50 out of 50 (100%)
 Feedback	
 Well done! This is the answer key and feedback for Practice Set 4.
 
 ---
 
-### Section A - Logic & Reasoning
+### Section 1: Logic Test
 
 Question 1
 Correct
@@ -100,7 +100,6 @@ Evaluate the logical validity of the following argument:
 - If a feature is confusing, users drop off.
 - Users did not drop off.
 - Therefore, the feature is not confusing.
-
 Select one:
 a. Not valid, because user behavior is unpredictable.
 b. Valid, because by Modus Tollens (If P then Q; Not Q; Therefore Not P), the absence of the effect (drop off) guarantees the absence of the sufficient cause (confusing feature). Correct! Under strict deductive logic, this argument is valid.
@@ -111,9 +110,316 @@ The correct answer is: Valid, because by Modus Tollens (If P then Q; Not Q; Ther
 
 ---
 
-### Section B - Programming / Swift Basics
-
 Question 7
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `10, 16, 22, 28, 34, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 34
+b. 40 Correct! The sequence is arithmetic, where each term increases by a constant difference of 6 (10 + 6 = 16, etc.). The next term is 34 + 6 = 40.
+c. 42
+d. 46
+Feedback
+The correct answer is: 40
+
+Question 8
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Evaluate the logical validity of the following argument:
+- If an app is high quality, it receives positive reviews.
+- This app received positive reviews.
+- Therefore, this app is high quality.
+
+Is the conclusion logically valid?
+Select one:
+a. Valid, by Modus Ponens.
+b. Invalid, because it commits the fallacy of affirming the consequent. Correct! The argument structure is: 'If P then Q; Q; Therefore P'. This is a formal fallacy known as affirming the consequent. The app could have received positive reviews for other reasons, such as a successful marketing campaign or low price, even if it is not high quality.
+c. Valid, by Modus Tollens.
+d. Invalid, because it is a slippery slope.
+Feedback
+The correct answer is: Invalid, because it commits the fallacy of affirming the consequent.
+
+Question 9
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Worker A can complete a software module in `8 hours`, and Worker B can complete the same module in `8 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 3 hours
+b. 4 hours Correct! Combined rate of work is 1/8 + 1/8 = (8+8)/(8*8). The time taken is (8*8)/(8+8) = 64/16 = 4 hours.
+c. 6 hours
+d. 8 hours
+Feedback
+The correct answer is: 4 hours
+
+Question 10
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Consider these statements:
+- Some databases are SQL-based.
+- Some SQL-based databases are relational.
+- Therefore, some databases are relational.
+
+Is the conclusion logically valid?
+Select one:
+a. Yes, because SQL-based databases are relational.
+b. No, because the subset of databases that are SQL-based might not overlap with the subset of SQL-based databases that are relational. Correct! The fallacy of the undistributed middle. Just because some databases are SQL-based and some SQL databases are relational, it does not guarantee that the relational SQL databases are part of the SQL databases that are database entities in our first premise. They could be disjoint subsets.
+c. Yes, because all databases are relational.
+d. No, because SQL databases are never relational.
+Feedback
+The correct answer is: No, because the subset of databases that are SQL-based might not overlap with the subset of SQL-based databases that are relational.
+
+Question 11
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `12, 23, 21, 32, 30, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 30
+b. 41 Correct! The pattern alternates: add 11 to odd indices and subtract 2 from even indices. Following this rule, the next difference is 11. Hence, 30 + 11 = 41.
+c. 43
+d. 47
+Feedback
+The correct answer is: 41
+
+Question 12
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Consider these statements:
+- No bug is a feature.
+- All features are written by developers.
+- Therefore, no bugs are written by developers.
+
+Is the conclusion logically valid?
+Select one:
+a. Yes, because bugs are the opposite of features.
+b. No, because the group of things written by developers can include bugs, even if bugs are not features. Correct! Even though bugs and features are disjoint sets, the set of things written by developers is a larger set that can contain both. The premise does not prevent bugs from being in the set of developer-written items.
+c. Yes, because developers only write features.
+d. No, because bugs are always written by developers.
+Feedback
+The correct answer is: No, because the group of things written by developers can include bugs, even if bugs are not features.
+
+Question 13
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `14, 19, 24, 29, 34, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 34
+b. 39 Correct! The sequence is arithmetic, where each term increases by a constant difference of 5 (14 + 5 = 19, etc.). The next term is 34 + 5 = 39.
+c. 43
+d. 44
+Feedback
+The correct answer is: 39
+
+Question 14
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Identify the logical fallacy in the following statement:
+'If we allow users to customize their dashboard fonts, they will soon demand custom background layouts. Then they will want to upload custom themes, and eventually we will end up with an unmaintainable codebase that crashes on every load.'
+Select one:
+a. Circular Reasoning
+b. False Cause
+c. Slippery Slope Correct! The slippery slope fallacy assumes that a small, relatively harmless first step (customizing fonts) will inevitably lead to a chain reaction of extreme, negative consequences (unmaintainable code and crashes) without any proof of necessity.
+d. Middle Ground
+Feedback
+The correct answer is: Slippery Slope
+
+Question 15
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Worker A can complete a software module in `8 hours`, and Worker B can complete the same module in `8 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 3 hours
+b. 4 hours Correct! Combined rate of work is 1/8 + 1/8 = (8+8)/(8*8). The time taken is (8*8)/(8+8) = 64/16 = 4 hours.
+c. 6 hours
+d. 8 hours
+Feedback
+The correct answer is: 4 hours
+
+Question 16
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+A team of 4 developers (Alex, Blake, Casey, and Drew) are sitting in a row from left to right. We know:
+- Alex is not next to Blake.
+- Casey is immediately to the left of Drew.
+- Alex is on the far left.
+
+Who is sitting immediately to the right of Alex?
+Select one:
+a. Blake
+b. Casey Correct! Since Alex is on the far left (position 1), the remaining positions are 2, 3, 4. Casey is immediately to the left of Drew, which means they must occupy adjacent positions like (2,3) or (3,4). Since Alex is not next to Blake, Blake cannot be at position 2. Therefore, Blake must be at position 4. This leaves Casey at position 2 and Drew at position 3. So Casey is immediately to the right of Alex.
+c. Drew
+d. Cannot be determined
+Feedback
+The correct answer is: Casey
+
+Question 17
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `14, 23, 21, 30, 28, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 28
+b. 37 Correct! The pattern alternates: add 9 to odd indices and subtract 2 from even indices. Following this rule, the next difference is 9. Hence, 28 + 9 = 37.
+c. 39
+d. 41
+Feedback
+The correct answer is: 37
+
+Question 18
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Consider the following argument:
+'Everyone uses our app, so it must be the best designed app in the store.'
+
+Which fallacy is committed here?
+Select one:
+a. Slippery Slope
+b. Ad Populum (Bandwagon Fallacy) Correct! The bandwagon fallacy (Ad Populum) occurs when an argument asserts that a claim is correct or good simply because it is popular or widely accepted.
+c. Circular Reasoning
+d. False Analogy
+Feedback
+The correct answer is: Ad Populum (Bandwagon Fallacy)
+
+Question 19
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `10, 18, 26, 34, 42, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 42
+b. 48
+c. 50 Correct! The sequence is arithmetic, where each term increases by a constant difference of 8 (10 + 8 = 18, etc.). The next term is 42 + 8 = 50.
+d. 58
+Feedback
+The correct answer is: 50
+
+Question 20
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+If all software architectures are patterns, and no patterns are simple, can we conclude that no software architectures are simple?
+Select one:
+a. Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C. Correct! This is a valid syllogism (Celarent). If all A (software architectures) are B (patterns), and no B (patterns) are C (simple), then no A can be C. The sets A and C are completely disjoint.
+b. No, because some software architectures could be simple through extensions.
+c. Yes, because simplicity is subjective in software architecture.
+d. No, because a pattern could be simple if it is well-documented.
+Feedback
+The correct answer is: Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C.
+
+Question 21
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Worker A can complete a software module in `9 hours`, and Worker B can complete the same module in `18 hours`. If both work together at their constant rates, how long will it take them to complete the module?
+Select one:
+a. 13 hours
+b. 5 hours
+c. 6 hours Correct! Combined rate of work is 1/9 + 1/18 = (9+18)/(9*18). The time taken is (9*18)/(9+18) = 162/27 = 6 hours.
+d. 8 hours
+Feedback
+The correct answer is: 6 hours
+
+Question 22
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Identify the logical fallacy in this statement:
+'Why is our algorithm so fast? Because it executes processes in a very short amount of time!'
+Select one:
+a. False Analogy
+b. Circular Reasoning (Begging the Question) Correct! Circular reasoning occurs when the premise and conclusion are identical or simply rephrased. Saying an algorithm is fast *because* it executes in a short amount of time is circular, as 'fast' and 'short amount of time' are definitions of the same concept.
+c. False Cause
+d. Slippery Slope
+Feedback
+The correct answer is: Circular Reasoning (Begging the Question)
+
+Question 23
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `18, 23, 19, 24, 20, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 20
+b. 25 Correct! The pattern alternates: add 5 to odd indices and subtract 4 from even indices. Following this rule, the next difference is 5. Hence, 20 + 5 = 25.
+c. 29
+d. 31
+Feedback
+The correct answer is: 25
+
+Question 24
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+If no compiled code is interpreted, and some Swift programs are compiled code, can we conclude that some Swift programs are not interpreted?
+Select one:
+a. Yes, because the Swift programs that are compiled code cannot be interpreted. Correct! This is a valid syllogism (Festino). If some Swift programs are compiled, and no compiled code is interpreted, then those compiled Swift programs are definitely not interpreted.
+b. No, because all Swift programs are eventually interpreted by the compiler.
+c. Yes, because Swift is a compiled language only.
+d. No, because compiled code is a subset of interpreted code.
+Feedback
+The correct answer is: Yes, because the Swift programs that are compiled code cannot be interpreted.
+
+Question 25
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Number pattern: `11, 15, 19, 23, 27, ?`
+
+What is the next number in the sequence?
+Select one:
+a. 27
+b. 31 Correct! The sequence is arithmetic, where each term increases by a constant difference of 4 (11 + 4 = 15, etc.). The next term is 27 + 4 = 31.
+c. 35
+d. 35
+Feedback
+The correct answer is: 31
+
+---
+
+### Section 2: Programming Test
+
+Question 26
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -132,15 +438,14 @@ d. `2`
 Feedback
 The correct answer is: `6`
 
-Question 8
+Question 27
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which Swift implementation correctly filters an array of integers to return unique values while preserving their first-seen order?
 Select one:
-a.
-```swift
+a. ```swift
 func uniquePreservingOrder(_ values: [Int]) -> [Int] {
     var seen = Set<Int>()
     var result: [Int] = []
@@ -153,27 +458,23 @@ func uniquePreservingOrder(_ values: [Int]) -> [Int] {
     return result
 }
 ``` Correct! This correctly uses a `Set` for O(1) membership checks and an `Array` to preserve the original first-seen sequence order.
-b.
-```swift
+b. ```swift
 func uniquePreservingOrder(_ values: [Int]) -> [Int] {
     return Array(Set(values))
 }
 ```
-c.
-```swift
+c. ```swift
 func uniquePreservingOrder(_ values: [Int]) -> [Int] {
     return values.sorted()
 }
 ```
-d.
-```swift
+d. ```swift
 func uniquePreservingOrder(_ values: [Int]) -> [Int] {
     return values.filter { $0 != 0 }
 }
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 func uniquePreservingOrder(_ values: [Int]) -> [Int] {
     var seen = Set<Int>()
     var result: [Int] = []
@@ -187,7 +488,7 @@ func uniquePreservingOrder(_ values: [Int]) -> [Int] {
 }
 ```
 
-Question 9
+Question 28
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -201,7 +502,7 @@ d. `guard let` can unwrap multiple values, but `if let` can only unwrap one.
 Feedback
 The correct answer is: `guard let` is designed to handle exit paths early and keeps the happy path flat, whereas `if let` wraps the success path inside a nested conditional scope.
 
-Question 10
+Question 29
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -220,46 +521,41 @@ d. `0`
 Feedback
 The correct answer is: `70`
 
-Question 11
+Question 30
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which Swift implementation correctly returns at most the two largest integers from an array in descending order?
 Select one:
-a.
-```swift
+a. ```swift
 func topTwoDescending(_ values: [Int]) -> [Int] {
     return Array(values.sorted(by: >).prefix(2))
 }
 ``` Correct! Sorting descending (`>`) and using `prefix(2)` yields up to 2 largest elements. Wrapping in `Array` converts the slice back to an array.
-b.
-```swift
+b. ```swift
 func topTwoDescending(_ values: [Int]) -> [Int] {
     return values.filter { $0 > 2 }
 }
 ```
-c.
-```swift
+c. ```swift
 func topTwoDescending(_ values: [Int]) -> [Int] {
     return Array(values.sorted().prefix(2))
 }
 ```
-d.
-```swift
+d. ```swift
 func topTwoDescending(_ values: [Int]) -> [Int] {
     return [values.max() ?? 0]
 }
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 func topTwoDescending(_ values: [Int]) -> [Int] {
     return Array(values.sorted(by: >).prefix(2))
 }
 ```
 
-Question 12
+Question 31
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -272,31 +568,26 @@ if Int(input!) != nil {
 }
 ```
 Select one:
-a.
-```swift
+a. ```swift
 let input: String? = "15"
 if let input, let n = Int(input) {
     print(n * 2)
 }
 ``` Correct! This safely unwraps the optional and binds the parsed integer into `n` in a single flow, performing the parsing operation only once.
-b.
-```swift
+b. ```swift
 let input: String? = "15"
 print(Int(input!)! * 2)
 ```
-c.
-```swift
+c. ```swift
 let input: String? = "15"
 if input != nil { print(Int(input!)! * 2) }
 ```
-d.
-```swift
+d. ```swift
 let input: String? = "15"
 print((Int(input ?? "0") ?? 0) * 2)
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 let input: String? = "15"
 if let input, let n = Int(input) {
     print(n * 2)
@@ -305,9 +596,7 @@ if let input, let n = Int(input) {
 
 ---
 
-### Section C - OOP & Swift Concepts
-
-Question 13
+Question 32
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -321,7 +610,7 @@ d. Structs are compiled in C, which automatically handles reference counting.
 Feedback
 The correct answer is: Classes are reference types and store instances in heap memory with multiple shared references (which can form circular reference dependencies), whereas structs are value types copied by value and do not support shared references.
 
-Question 14
+Question 33
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -335,7 +624,7 @@ d. When subclassing is not supported by the iOS operating system.
 Feedback
 The correct answer is: When you need to define a shared behavioral contract across multiple unrelated types without forcing them into a rigid, tightly coupled parent-child inheritance structure.
 
-Question 15
+Question 34
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -349,7 +638,7 @@ d. It automatically shifts reference storage from heap to stack.
 Feedback
 The correct answer is: It prevents subclass overriding, which helps maintain the architecture boundaries, and allows the compiler to optimize calls by using direct dispatch instead of dynamic table dispatch.
 
-Question 16
+Question 35
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -376,7 +665,7 @@ d. `3 2`
 Feedback
 The correct answer is: `2 3`
 
-Question 17
+Question 36
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -401,15 +690,14 @@ d. The code will fail to compile.
 Feedback
 The correct answer is: `1`
 
-Question 18
+Question 37
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which snippet correctly defines a protocol `Cacheable` with associated key/value behaviors?
 Select one:
-a.
-```swift
+a. ```swift
 protocol Cacheable {
     associatedtype Key: Hashable
     associatedtype Value
@@ -417,27 +705,23 @@ protocol Cacheable {
     func get(_ key: Key) -> Value?
 }
 ``` Correct! This correctly uses generics/associatedtypes to define a clear protocol contract for a cache system.
-b.
-```swift
+b. ```swift
 class Cacheable {
     var cache: [String: Any] = [:]
 }
 ```
-c.
-```swift
+c. ```swift
 protocol Cacheable {
     var data: Any { get set }
 }
 ```
-d.
-```swift
+d. ```swift
 struct Cacheable {
     func get(_ key: String) -> Any? { return nil }
 }
 ```
 Feedback
-The correct answer is:
-```swift
+The correct answer is: ```swift
 protocol Cacheable {
     associatedtype Key: Hashable
     associatedtype Value
@@ -448,176 +732,222 @@ protocol Cacheable {
 
 ---
 
-### Section D - Design & UX
-
-Question 19
+Question 38
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Which group of features represents the most appropriate MVP (V1) scope for a transit application focused on accessibility?
+What is the output of the following Swift code?
+```swift
+func process(_ input: inout Int) {
+    input += 5
+}
+var score = 10
+process(&score)
+print(score)
+```
 Select one:
-a. Premium subscription tiers, social media travel sharing, dark mode, weather forecasting, and custom route themes.
-b. Accessible route search, step-free station filtering, real-time voice guidance, disruption alerts, and saved frequent trips. Correct! These address the primary needs of visually and mobility-impaired users directly.
-c. 3D station models, community chat forums, in-app mini-games, and integration with fitness bands.
-d. AI shuttle passenger forecasting, driver tip system, and local sightseeing recommendations.
+a. 10
+b. 15 Correct! The `inout` keyword allows a function to modify the passed argument directly, which is passed by reference using the `&` symbol. Thus, `score` is modified to 15.
+c. 5
+d. Compilation error
 Feedback
-The correct answer is: Accessible route search, step-free station filtering, real-time voice guidance, disruption alerts, and saved frequent trips.
+The correct answer is: 15
 
-Question 20
+Question 39
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-What are three primary user experience (UX) risks associated with a 9-step booking or checkout flow?
+Which of the following access levels in Swift restricts access to the defining source file only?
 Select one:
-a. Fast loading speed, low error count, and high user focus.
-b. High user drop-off rate, accumulation of input validation errors, and cognitive overload leading to abandonment. Correct! Multi-step flows introduce significant friction and user fatigue on mobile.
-c. Increased device storage usage, compiler warnings, and battery draining.
-d. Lack of support for custom typography, missing dark mode, and lack of horizontal scrolling.
+a. private
+b. fileprivate Correct! fileprivate restricts access to the source file in which the type is defined. private restricts access to the enclosing declaration.
+c. internal
+d. public
 Feedback
-The correct answer is: High user drop-off rate, accumulation of input validation errors, and cognitive overload leading to abandonment.
+The correct answer is: fileprivate
 
-Question 21
+Question 40
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-How does the design pattern of "progressive disclosure" improve app completion rates?
+What is the output of the following Swift code?
+```swift
+let val: Any = "Swift"
+if let text = val as? Int {
+    print("Int: \(text)")
+} else if let text = val as? String {
+    print("String: \(text)")
+} else {
+    print("Other")
+}
+```
 Select one:
-a. By showing all possible configurations and options on the first page to save taps.
-b. By presenting only necessary information initially, revealing advanced options or fields contextually as needed to avoid overwhelming the user. Correct! This matches the definition and benefit of progressive disclosure, reducing upfront cognitive load.
-c. By forcing the user to progress through pages quickly using timers.
-d. By using animations that lock the screen until the user reads the text.
+a. `"Int: Swift"`
+b. `"String: Swift"` Correct! The conditional cast operator `as?` attempts to cast `val` to `Int` (which fails and returns nil) and then to `String` (which succeeds, binding `text` to `"Swift"`). Thus, it prints `"String: Swift"`.
+c. `"Other"`
+d. Compilation error
 Feedback
-The correct answer is: By presenting only necessary information initially, revealing advanced options or fields contextually as needed to avoid overwhelming the user.
+The correct answer is: `"String: Swift"`
 
-Question 22
+Question 41
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-If you have 2 weeks left before the app launch and discover critical usability issues in testing, which triage framework should you adopt?
+In Swift, what is a protocol extension?
 Select one:
-a. Fix everything in alphabetical order.
-b. Prioritize issues by Severity x Frequency x User Impact; resolve critical blocking flows first and defer visual polish or minor issues to V2. Correct! This ensures the app is functional and stable on its primary paths before release.
-c. Ignore all issues and launch on time, resolving problems only when bad reviews appear.
-d. Re-design the entire user interface from scratch.
+a. A way to add new requirements to an existing protocol.
+b. A mechanism to provide default implementations for protocol methods, enabling conforming types to inherit behavior without overriding it. Correct! Protocol extensions allow you to define default behavior and implementation for methods and computed properties defined in a protocol, avoiding boilerplate in conforming classes and structs.
+c. An extension that makes a protocol conform to another protocol.
+d. A class that subclass a protocol definition.
 Feedback
-The correct answer is: Prioritize issues by Severity x Frequency x User Impact; resolve critical blocking flows first and defer visual polish or minor issues to V2.
+The correct answer is: A mechanism to provide default implementations for protocol methods, enabling conforming types to inherit behavior without overriding it.
 
-Question 23
+Question 42
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-You observe that user retention drops significantly after day 3 of downloading your app. Which three data slices should you inspect first?
+What is the output of the following Swift code?
+```swift
+var dict = ["a": 1, "b": 2]
+let oldVal = dict.updateValue(3, forKey: "a")
+print(oldVal ?? 0, dict["a"] ?? 0)
+```
 Select one:
-a. App store rating, developer line count, and database size.
-b. Retention cohorts segmented by acquisition channel, device/performance specifications, and user path tracking within the first session. Correct! Segmenting cohorts helps identify if drops are caused by poor channel matching, performance bottlenecks, or confusion during the initial experience.
-c. Server logs, push notification volume, and code reviews.
-d. Marketing budgets, competitor updates, and daily active users.
+a. 1 3 Correct! `updateValue(_:forKey:)` updates the value for the given key and returns the *old value* that was replaced as an optional. So `oldVal` is `1` (wrapped in optional). The dictionary value for `"a"` is now `3`. Hence, `1 3` is printed.
+b. 3 3
+c. 0 3
+d. 1 1
 Feedback
-The correct answer is: Retention cohorts segmented by acquisition channel, device/performance specifications, and user path tracking within the first session.
+The correct answer is: 1 3
 
-Question 24
+Question 43
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Which of the following represents the most effective rewrite of the weak requirement: "Make accessibility much better"?
+Which Swift statement is used to execute a code block only if a condition is met, otherwise exiting the current scope?
 Select one:
-a. "Improve accessibility options."
-b. "Raise accessibility audit score from 68 to 90 by adding screen-reader labels, contrast-compliant colors, and dynamic type support across the core booking flow." Correct! This specifies measurable standards and concrete engineering deliverables.
-c. "The app must be easy to use for disabled users."
-d. "Add a toggle for accessibility on the home screen."
+a. check
+b. guard Correct! The `guard` statement is used to transfer control out of a scope if a condition is not met. It requires an `else` block which must exit the current scope.
+c. assert
+d. require
 Feedback
-The correct answer is: "Raise accessibility audit score from 68 to 90 by adding screen-reader labels, contrast-compliant colors, and dynamic type support across the core booking flow."
+The correct answer is: guard
 
----
-
-### Section E - Motivation & Soft Skills
-
-Question 25
+Question 44
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-You are asked to describe a failure that improved your way of working. Which response shows the highest level of accountability and professional growth?
+What is the output of the following Swift code?
+```swift
+let data: [Any] = [1, "two", 3.0]
+let count = data.compactMap { $0 as? String }.count
+print(count)
+```
 Select one:
-a. "A project failed because my team members did not work hard enough. Next time, I will make sure they do their jobs."
-b. "We missed a project deadline because of poor task estimations. I took responsibility, analyzed our tracking gaps, and introduced a scrum board with daily standups in our next project, which helped us deliver all subsequent features on time." Correct! This demonstrates ownership of failure, analysis of the cause, implementation of a corrective framework, and positive outcomes.
-c. "The project was a failure, but since it was only a prototype, I didn't care much."
-d. "I have never failed; all my projects have been perfect successes."
+a. 1 Correct! `compactMap` filters out any element that cannot be cast to `String` (namely `1` and `3.0`), leaving only `["two"]`. The count of this array is 1.
+b. 3
+c. 0
+d. 2
 Feedback
-The correct answer is: "We missed a project deadline because of poor task estimations. I took responsibility, analyzed our tracking gaps, and introduced a scrum board with daily standups in our next project, which helped us deliver all subsequent features on time."
+The correct answer is: 1
 
-Question 26
+Question 45
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-How do you contribute to a project when your role is not formally defined?
+What is a major advantage of utilizing generic functions or types in Swift?
 Select one:
-a. I wait until the team leader gives me a formal list of tasks.
-b. I observe the team's needs, identify gaps (e.g., missing tests or undocumented requirements), propose where I can add value, and collaborate with others to fill those gaps proactively. Correct! Proactive contribution and filling execution gaps are highly valued attributes in cross-functional, flat teams.
-c. I focus only on coding my own parts and don't get involved in other work.
-d. I complain about the lack of project structure to the mentors.
+a. They speed up execution speeds because compiler ignores type checks.
+b. They allow writing flexible, reusable code that can work with any type, while maintaining static type safety. Correct! Generics enable you to write general-purpose functions and types that avoid code duplication, ensuring compile-time safety since the exact types are validated by the compiler.
+c. They automatically convert value types to reference types.
+d. They eliminate the need to use optionals.
 Feedback
-The correct answer is: I observe the team's needs, identify gaps (e.g., missing tests or undocumented requirements), propose where I can add value, and collaborate with others to fill those gaps proactively.
+The correct answer is: They allow writing flexible, reusable code that can work with any type, while maintaining static type safety.
 
-Question 27
+Question 46
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-Which response describes the most appropriate tradeoff made under deadline pressure?
+What is the output of the following Swift code?
+```swift
+var value1: Int? = 5
+var value2: Int? = nil
+print((value1 ?? 10) + (value2 ?? 10))
+```
 Select one:
-a. "I disabled user input validation to complete the registration screen faster."
-b. "We had to deliver a prototype. Under pressure, we scoped out the custom profile editor and focused on securing the primary booking flow, logging the profile work for V2 while keeping our code base tested and clean." Correct! This prioritizes core functionality and maintains code quality/testing while pragmatically reducing secondary scope.
-c. "I wrote messy code to meet the date, hoping to fix it later, though we never did."
-d. "I extended our deadline by two weeks without asking the product owner."
+a. 15 Correct! The nil-coalescing operator `??` provides a default value if the optional is nil. `value1 ?? 10` evaluates to 5. `value2 ?? 10` evaluates to 10. The sum is 5 + 10 = 15.
+b. 20
+c. 5
+d. 10
 Feedback
-The correct answer is: "We had to deliver a prototype. Under pressure, we scoped out the custom profile editor and focused on securing the primary booking flow, logging the profile work for V2 while keeping our code base tested and clean."
+The correct answer is: 15
 
-Question 28
+Question 47
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-How do you ensure that quieter or less confident teammates are heard during discussions?
+In Swift, what happens when you modify a property of a struct instance that is assigned to a constant (`let`) variable?
 Select one:
-a. By speaking louder to ensure the team stays on topic.
-b. By actively pausing the discussion, asking quieter teammates for their thoughts on specific areas, and creating a supportive, non-judgmental environment. Correct! Active facilitation and encouraging inclusive input is vital for team synergy.
-c. By assuming they agree with the majority if they remain silent.
-d. By assigning them tasks without asking for their input first.
+a. The property changes successfully if it is declared with `var`.
+b. The compiler throws an error because the struct is a value type and its instance is immutable. Correct! Structs are value types. When a value type is declared as a constant with `let`, all of its properties are also constant, even if they are declared with `var`. Attempting to mutate them results in a compilation error.
+c. The property changes, but a compiler warning is printed.
+d. The struct is converted to a class type dynamically.
 Feedback
-The correct answer is: By actively pausing the discussion, asking quieter teammates for their thoughts on specific areas, and creating a supportive, non-judgmental environment.
+The correct answer is: The compiler throws an error because the struct is a value type and its instance is immutable.
 
-Question 29
+Question 48
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-What impact do you want your app development work to create in 3 years?
+What is the primary difference between `weak` and `unowned` references in Swift?
 Select one:
-a. "I want to have built several apps that generate advertising revenue for myself."
-b. "I want to design and deploy apps that improve daily life for underserved communities, such as facilitating accessible transport or digital literacy for seniors, showing measurable improvements in their independence." Correct! This highlights a purpose-driven, impact-oriented long-term vision.
-c. "I want to be recognized as the fastest coder in my company."
-d. "I hope to write code that does not require maintenance."
+a. weak references are value types, while unowned are reference types.
+b. weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation. Correct! weak references must be declared as variables of optional type because they can become nil at runtime when the referenced object is deallocated. unowned references are assumed to always have a value, so they are non-optional; accessing them after the object is deallocated leads to a runtime crash.
+c. weak is used for structs, while unowned is used for classes.
+d. There is no difference; they are aliases.
 Feedback
-The correct answer is: "I want to design and deploy apps that improve daily life for underserved communities, such as facilitating accessible transport or digital literacy for seniors, showing measurable improvements in their independence."
+The correct answer is: weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation.
 
-Question 30
+Question 49
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
 Question text
-How do you recover after receiving tough criticism on your work?
+What is the output of the following Swift code?
+```swift
+let names = ["Alice", "Bob", "Charlie"]
+let result = names.filter { $0.count < 5 }.map { $0.uppercased() }
+print(result)
+```
 Select one:
-a. I ignore it and keep doing my work the same way.
-b. I process it non-defensively, separate my ego from my work, seek clarification on specific points, and create a concrete checklist of actions to improve my performance. Correct! This shows emotional intelligence, professional resilience, and an action-oriented growth mindset.
-c. I express my frustration to the team and refuse to work.
-d. I ask the team to assign me to a different project.
+a. `["ALICE", "BOB"]`
+b. `["BOB"]` Correct! Filtering names with character count less than 5 leaves only `"Bob"` (count 3). `"Alice"` has 5 characters and `"Charlie"` has 7. Mapping `"Bob"` to uppercase yields `"BOB"`. Thus, output is `["BOB"]`.
+c. `["ALICE", "CHARLIE"]`
+d. `["BOB", "ALICE"]`
 Feedback
-The correct answer is: I process it non-defensively, separate my ego from my work, seek clarification on specific points, and create a concrete checklist of actions to improve my performance.
+The correct answer is: `["BOB"]`
+
+Question 50
+Correct
+Mark 1 out of 1
+Not flaggedFlag question
+Question text
+Which of the following is true about ARC (Automatic Reference Counting) in Swift?
+Select one:
+a. ARC periodically runs garbage collection routines on a background thread.
+b. ARC only tracks references of class instances; it does not apply to structs and enums. Correct! ARC applies only to reference types (classes). Since structs and enums are value types, they are copied on assignment and do not participate in reference counting.
+c. ARC automatically resolves all strong reference cycles.
+d. ARC requires manual release statements from the developer.
+Feedback
+The correct answer is: ARC only tracks references of class instances; it does not apply to structs and enums.
