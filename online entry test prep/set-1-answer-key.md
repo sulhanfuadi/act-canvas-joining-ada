@@ -99,7 +99,8 @@ Consider these statements:
 Is the conclusion logically valid?
 Select one:
 a. Yes, because prototypes are experiments, and since some experiments fail, some prototypes must fail.
-b. No, because the experiments that fail do not necessarily have to be prototypes; all prototypes could be in the subset of experiments that succeed. Correct! "Some experiments fail" does not guarantee that the failures include prototypes. The conclusion is not logically valid.
+b. No, because the experiments that fail do not necessarily have to be prototypes; all prototypes could be in the subset of experiments that succeed. 
+Correct! "Some experiments fail" does not guarantee that the failures include prototypes. The conclusion is not logically valid.
 c. Yes, because failure is a natural part of the prototyping process.
 d. No, because all prototypes are guaranteed to fail in the first iteration.
 Feedback
@@ -127,7 +128,8 @@ Question text
 A train leaves City A at 08:00 at a speed of `60 km/h`. Another train leaves City B traveling toward City A at 09:00 at a speed of `90 km/h`. The distance between City A and City B is `390 km`. At what time do they meet?
 Select one:
 a. 11:00
-b. 11:12 Correct! From 08:00 to 09:00, the first train travels 60 km, leaving a distance of 330 km. From 09:00, they travel towards each other at a combined speed of 60 + 90 = 150 km/h. The time needed to meet is 330 / 150 = 2.2 hours (2 hours and 12 minutes). Thus, they meet at 09:00 + 2 hours 12 minutes = 11:12.
+b. 11:12 
+Correct! From 08:00 to 09:00, the first train travels 60 km, leaving a distance of 330 km. From 09:00, they travel towards each other at a combined speed of 60 + 90 = 150 km/h. The time needed to meet is 330 / 150 = 2.2 hours (2 hours and 12 minutes). Thus, they meet at 09:00 + 2 hours 12 minutes = 11:12.
 c. 11:20
 d. 11:30
 Feedback
@@ -176,7 +178,8 @@ Consider the following argument:
 Which fallacy is committed here?
 Select one:
 a. Slippery Slope
-b. Ad Populum (Bandwagon Fallacy) Correct! The bandwagon fallacy (Ad Populum) occurs when an argument asserts that a claim is correct or good simply because it is popular or widely accepted.
+b. Ad Populum (Bandwagon Fallacy) 
+Correct! The bandwagon fallacy (Ad Populum) occurs when an argument asserts that a claim is correct or good simply because it is popular or widely accepted.
 c. Circular Reasoning
 d. False Analogy
 Feedback
@@ -191,10 +194,17 @@ Worker A can complete a software module in `5 hours`, and Worker B can complete 
 Select one:
 a. 12 hours
 b. 3 hours
-c. 4 hours Correct! Combined rate of work is 1/5 + 1/20 = (5+20)/(5*20). The time taken is (5*20)/(5+20) = 100/25 = 4 hours.
+c. 4 hours 
+Correct!
 d. 6 hours
 Feedback
 The correct answer is: 4 hours
+
+$$\text{Combined Rate} = \frac{4}{20} + \frac{1}{20} = \frac{5}{20} = \frac{1}{4} \text{ of the module per hour}$$
+
+Finally, calculate the total time required by taking the reciprocal of the combined rate:
+
+$$\text{Time} = \frac{1}{\frac{1}{4}} = 4 \text{ hours}$$
 
 Question 13
 Correct
@@ -203,7 +213,8 @@ Not flaggedFlag question
 Question text
 If all software architectures are patterns, and no patterns are simple, can we conclude that no software architectures are simple?
 Select one:
-a. Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C. Correct! This is a valid syllogism (Celarent). If all A (software architectures) are B (patterns), and no B (patterns) are C (simple), then no A can be C. The sets A and C are completely disjoint.
+a. Yes, because if A is a subset of B, and B is disjoint from C, then A must be disjoint from C. 
+Correct! This is a valid syllogism (Celarent). If all A (software architectures) are B (patterns), and no B (patterns) are C (simple), then no A can be C. The sets A and C are completely disjoint.
 b. No, because some software architectures could be simple through extensions.
 c. Yes, because simplicity is subjective in software architecture.
 d. No, because a pattern could be simple if it is well-documented.
@@ -370,6 +381,21 @@ d. Passing the coding challenge guarantees you an interview.
 Feedback
 The correct answer is: If you get an interview, you passed the coding challenge.
 
+### Analoginya seperti SIM dan Menyetir
+
+Aturannya: _"Kalau gak punya SIM, kamu gak boleh menyetir mobil."_
+
+- **Pilihan A mirip seperti bilang:** _"Kalau kamu punya SIM, kamu pasti akan menyetir mobil."_ _(Salah. Punya SIM ya punya aja, belum tentu kamu punya mobil atau lagi pengen menyetir sekarang, kan?)_
+    
+- **Pilihan B mirip seperti bilang:** _"Kalau kamu lagi menyetir mobil di jalan, kamu pasti punya SIM."_ _(Benar secara hukum, karena kalau gak punya SIM, kamu gak bakal bisa/boleh menyetir di sana)._
+    
+
+Jadi kesimpulannya:
+
+- Pilihan **A** itu sok tahu tentang apa yang akan terjadi nanti (menganggap lulus _coding_ langsung dapat tiket VIP wawancara).
+    
+- Pilihan **B** itu sebuah kepastian logis (kalau sudah wawancara, berarti tes sebelumnya pasti lolos).
+
 Question 24
 Correct
 Mark 1 out of 1
@@ -434,22 +460,27 @@ Not flaggedFlag question
 Question text
 Which implementation of the function correctly and efficiently returns only odd numbers from an array of integers?
 Select one:
-a. ```swift
+a. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }
 }
-``` Correct! The `filter` method retains only elements that satisfy the condition `$0 % 2 != 0` (odd integers).
-b. ```swift
+``` 
+Correct! The `filter` method retains only elements that satisfy the condition `$0 % 2 != 0` (odd integers).
+b. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 % 2 != 0 ? $0 : nil }.compactMap { $0 }
 }
 ```
-c. ```swift
+c. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 / 2 != 0 }
 }
 ```
-d. ```swift
+d. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     var result = [Int]()
     for n in numbers {
@@ -459,7 +490,8 @@ func oddNumbers(_ numbers: [Int]) -> [Int] {
 }
 ```
 Feedback
-The correct answer is: ```swift
+The correct answer is: 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }
 }
@@ -561,28 +593,34 @@ Not flaggedFlag question
 Question text
 Which Swift implementation receives `[Int]` and returns only even numbers, sorted descending, and each multiplied by 10?
 Select one:
-a. ```swift
+a. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.sorted(by: >).map { $0 * 10 }
 }
-``` Correct! This chain filters for even numbers first, sorts them in descending order (`>`), and then maps them by multiplying by 10.
-b. ```swift
+``` 
+Correct! This chain filters for even numbers first, sorts them in descending order (`>`), and then maps them by multiplying by 10.
+b. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 * 10 }.filter { $0 % 2 == 0 }.sorted()
 }
 ```
-c. ```swift
+c. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
-d. ```swift
+d. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.map { $0 * 10 }.sorted()
 }
 ```
 Feedback
-The correct answer is: ```swift
+The correct answer is: 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.sorted(by: >).map { $0 * 10 }
 }
@@ -602,6 +640,8 @@ d. There is no technical difference between the three functions.
 Feedback
 The correct answer is: Use `map` to transform every element, `filter` to keep elements matching a condition, and `compactMap` to transform and discard any resulting nil values.
 
+- **`compactMap`:** Mirip seperti `map` (melakukan transformasi), tetapi memiliki kemampuan ekstra untuk otomatis membuang (_discard_) elemen yang menghasilkan nilai `nil`. Fungsi ini sangat berguna untuk mengubah array yang berisi nilai _Optional_ menjadi array bersih tanpa `nil`.
+
 ---
 
 Question 35
@@ -612,11 +652,16 @@ Question text
 What is the fundamental difference between a `struct` and a `class` in Swift?
 Select one:
 a. Structs support inheritance, whereas classes do not.
-b. Structs are value types (copied on assignment), whereas classes are reference types (shared instance). Correct! Structs have value semantics (independent copy), and classes have reference semantics (multiple references point to the same instance).
+b. Structs are value types (copied on assignment), whereas classes are reference types (shared instance). 
+Correct! Structs have value semantics (independent copy), and classes have reference semantics (multiple references point to the same instance).
 c. Structs are reference types, whereas classes are value types.
 d. Structs must always be declared with `let`, and classes must be declared with `var`.
 Feedback
 The correct answer is: Structs are value types (copied on assignment), whereas classes are reference types (shared instance).
+
+- **Struct (Value Type / Tipe Nilai):** Ketika kamu memasukkan `struct` ke variabel baru atau mengirimnya ke dalam fungsi, Swift akan membuat **salinan baru (copy)** dari data tersebut. Perubahan pada salinan baru tidak akan memengaruhi data aslinya. `struct` disimpan di dalam _Stack memory_.
+    
+- **Class (Reference Type / Tipe Referensi):** Ketika kamu memasukkan `class` ke variabel baru, yang disalin bukanlah datanya, melainkan **alamat memorinya (reference/pointer)**. Jadi, kedua variabel akan menunjuk ke **satu objek yang sama (shared instance)** di dalam _Heap memory_. Jika kamu mengubah isi dari variabel baru, variabel lama juga ikut berubah.
 
 Question 36
 Correct
@@ -677,7 +722,8 @@ Not flaggedFlag question
 Question text
 Which implementation defines a protocol `Payable` with a method `pay(amount:)` and shows a type conforming to it?
 Select one:
-a. ```swift
+a. 
+```swift
 protocol Payable {
     func pay(amount: Double)
 }
@@ -686,34 +732,12 @@ struct Wallet: Payable {
         print("Paid \(amount)")
     }
 }
-``` Correct! This correctly defines the protocol and provides a struct that conforms to it by implementing the required method.
-b. ```swift
-class Payable {
-    func pay(amount: Double) {}
-}
-struct Wallet: Payable {}
-```
-c. ```swift
-protocol Payable {
-    var amount: Double { get }
-}
-```
-d. ```swift
-struct Payable {
-    func pay(amount: Double) {}
-}
-```
-Feedback
-The correct answer is: ```swift
-protocol Payable {
-    func pay(amount: Double)
-}
-struct Wallet: Payable {
-    func pay(amount: Double) {
-        print("Paid \(amount)")
-    }
-}
-```
+``` 
+Correct! This correctly defines the protocol and provides a struct that conforms to it by implementing the required method.
+
+- **Mendefinisikan Protocol:** Di Swift, sebuah _protocol_ dideklarasikan menggunakan kata kunci `protocol` diikuti dengan cetak biru (_blueprint_) dari fungsi atau propertinya tanpa menuliskan isi tubuh kodenya (`{}`). Pilihan **a** mendefinisikan `protocol Payable` dengan benar beserta fungsi `func pay(amount: Double)`.
+    
+- **Mengadopsi Protocol (Conforming):** Agar sebuah tipe data (`struct` atau `class`) bisa mematuhi (_conform_) ke protocol tersebut, tipe data itu harus menuliskan namanya setelah tanda titik dua (`:`) dan wajib mengimplementasikan seluruh fungsi yang disyaratkan oleh protocol tersebut. `struct Wallet: Payable` di pilihan **a** melakukan hal ini dengan menuliskan isi implementasi fungsi `pay(amount:)`.
 
 Question 40
 Correct
@@ -723,7 +747,8 @@ Question text
 Which statement best describes the differences and tradeoffs between value semantics and reference semantics in Swift?
 Select one:
 a. Value semantics allow shared mutable states across the app which optimizes data sync.
-b. Value semantics isolate state changes per copy (preventing unintended shared-state bugs), while reference semantics share instances (enabling shared mutable state, but introducing potential side effects). Correct! This covers the core behavior and design tradeoffs.
+b. Value semantics isolate state changes per copy (preventing unintended shared-state bugs), while reference semantics share instances (enabling shared mutable state, but introducing potential side effects). 
+Correct! This covers the core behavior and design tradeoffs.
 c. Reference semantics copy data on write, making them safer than value semantics.
 d. Structs use reference semantics, which helps prevent memory cycles.
 Feedback
@@ -757,6 +782,10 @@ d. A protocol.
 Feedback
 The correct answer is: A `class` because it allows multiple parts of the app to point to and modify a single, shared instance.
 
+- **`var` (Variable) $\rightarrow$ Mutable:** Nilainya bisa kamu otak-atik setelah dibuat.
+    
+- **`let` (Constant) $\rightarrow$ Immutable:** Nilainya dikunci. Sekali diberi nilai, gak bakal bisa diubah lagi.
+
 ---
 
 Question 43
@@ -786,7 +815,8 @@ Question text
 In Swift, what happens when you modify a property of a struct instance that is assigned to a constant (`let`) variable?
 Select one:
 a. The property changes successfully if it is declared with `var`.
-b. The compiler throws an error because the struct is a value type and its instance is immutable. Correct! Structs are value types. When a value type is declared as a constant with `let`, all of its properties are also constant, even if they are declared with `var`. Attempting to mutate them results in a compilation error.
+b. The compiler throws an error because the struct is a value type and its instance is immutable. 
+Correct! Structs are value types. When a value type is declared as a constant with `let`, all of its properties are also constant, even if they are declared with `var`. Attempting to mutate them results in a compilation error.
 c. The property changes, but a compiler warning is printed.
 d. The struct is converted to a class type dynamically.
 Feedback
@@ -800,11 +830,9 @@ Question text
 What is the primary difference between `weak` and `unowned` references in Swift?
 Select one:
 a. weak references are value types, while unowned are reference types.
-b. weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation. Correct! weak references must be declared as variables of optional type because they can become nil at runtime when the referenced object is deallocated. unowned references are assumed to always have a value, so they are non-optional; accessing them after the object is deallocated leads to a runtime crash.
-c. weak is used for structs, while unowned is used for classes.
-d. There is no difference; they are aliases.
-Feedback
-The correct answer is: weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation.
+b. weak references must be optionals and become nil when deallocated, whereas unowned references are non-optional and will crash if accessed after deallocation.
+
+Correct! weak references must be declared as variables of optional type because they can become nil at runtime when the referenced object is deallocated. unowned references are assumed to always have a value, so they are non-optional; accessing them after the object is deallocated leads to a runtime crash.
 
 Question 46
 Correct
@@ -833,11 +861,10 @@ Question text
 Which of the following is true about ARC (Automatic Reference Counting) in Swift?
 Select one:
 a. ARC periodically runs garbage collection routines on a background thread.
-b. ARC only tracks references of class instances; it does not apply to structs and enums. Correct! ARC applies only to reference types (classes). Since structs and enums are value types, they are copied on assignment and do not participate in reference counting.
-c. ARC automatically resolves all strong reference cycles.
-d. ARC requires manual release statements from the developer.
-Feedback
-The correct answer is: ARC only tracks references of class instances; it does not apply to structs and enums.
+b. ARC only tracks references of class instances; it does not apply to structs and enums. 
+
+Correct! ARC applies only to reference types (classes). Since structs and enums are value types, they are copied on assignment and do not participate in reference counting.
+
 
 Question 48
 Correct
@@ -868,6 +895,30 @@ d. 15
 Feedback
 The correct answer is: 10
 
+Mari kita jalankan kodenya baris demi baris:
+
+1. **`var counter = StepCounter()`** Objek `counter` dibuat dengan nilai awal `steps = 0`.
+    
+2. **`counter.steps = 10`**
+    
+    - Nilai `steps` berubah dari `0` menjadi `10`.
+        
+    - `didSet` dipicu. Di sini, `oldValue` (nilai lama) adalah `0`.
+        
+    - Kondisi `if steps < oldValue` (`10 < 0`) adalah **False**, jadi blok di dalamnya dilewati. Nilai `steps` saat ini tetap **10**.
+        
+3. **`counter.steps = 5`**
+    
+    - Nilai `steps` berubah dari `10` menjadi `5`.
+        
+    - `didSet` dipicu lagi. Sekarang, `oldValue` (nilai lama sebelum berubah jadi 5) adalah **10**.
+        
+    - Kondisi `if steps < oldValue` (`5 < 10`) adalah **True**!
+        
+    - Karena kondisinya benar, kode di dalam blok `if` dijalankan: `steps = oldValue`. Artinya, nilai `steps` dipaksa kembali ke nilai lamanya, yaitu **10**.
+        
+4. **`print(counter.steps)`** Karena penurunan nilai ke angka 5 tadi digagalkan dan dikembalikan ke 10 oleh `didSet`, maka angka yang dicetak ke layar adalah **10**.
+
 Question 49
 Correct
 Mark 1 out of 1
@@ -876,11 +927,10 @@ Question text
 Which Swift keyword is used to allow a struct's method to modify its own properties?
 Select one:
 a. modifying
-b. mutating Correct! By default, the properties of a value type cannot be modified from within its instance methods. To write a method that mutates properties, you must prepend the method declaration with the `mutating` keyword.
-c. inout
-d. update
-Feedback
-The correct answer is: mutating
+b. mutating 
+
+Correct! By default, the properties of a value type cannot be modified from within its instance methods. To write a method that mutates properties, you must prepend the method declaration with the `mutating` keyword.
+
 
 Question 50
 Correct

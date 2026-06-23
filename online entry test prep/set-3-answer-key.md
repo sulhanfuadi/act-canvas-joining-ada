@@ -367,7 +367,8 @@ Which of the following describes the 'Burden of Proof' logical fallacy?
 Select one:
 a. Assuming that because two variables are correlated, one must cause the other.
 b. Arguing that a claim must be true because it hasn't been proven false.
-c. Making a claim and expecting the opponent to disprove it rather than providing evidence for it. Correct! The Burden of Proof fallacy occurs when someone makes a claim but shifts the responsibility of proving it to someone else, typically demanding that they disprove the claim.
+c. Making a claim and expecting the opponent to disprove it rather than providing evidence for it. 
+Correct! The Burden of Proof fallacy occurs when someone makes a claim but shifts the responsibility of proving it to someone else, typically demanding that they disprove the claim.
 d. Taking a middle position between two extreme stances as the correct one.
 Feedback
 The correct answer is: Making a claim and expecting the opponent to disprove it rather than providing evidence for it.

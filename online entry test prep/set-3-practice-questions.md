@@ -386,7 +386,7 @@ func normalize(_ text: String?) -> String {
 Question 31
 Question text
 Which code snippet safely refactors the following unsafe optional force-unwrapping?
-```swift
+	```swift
 let raw: String? = "42"
 let n = Int(raw!)!
 print(n + 1)

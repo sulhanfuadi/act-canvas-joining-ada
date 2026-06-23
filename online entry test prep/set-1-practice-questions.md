@@ -292,22 +292,27 @@ Question 27
 Question text
 Which implementation of the function correctly and efficiently returns only odd numbers from an array of integers?
 Select one:
-a. ```swift
+a. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }
 }
 ```
-b. ```swift
+b. 
+
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 % 2 != 0 ? $0 : nil }.compactMap { $0 }
 }
 ```
-c. ```swift
+c. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 / 2 != 0 }
 }
 ```
-d. ```swift
+d. 
+```swift
 func oddNumbers(_ numbers: [Int]) -> [Int] {
     var result = [Int]()
     for n in numbers {
@@ -385,22 +390,26 @@ Question 33
 Question text
 Which Swift implementation receives `[Int]` and returns only even numbers, sorted descending, and each multiplied by 10?
 Select one:
-a. ```swift
+a. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
-b. ```swift
+b. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.map { $0 * 10 }.filter { $0 % 2 == 0 }.sorted()
 }
 ```
-c. ```swift
+c. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 != 0 }.sorted(by: >).map { $0 * 10 }
 }
 ```
-d. ```swift
+d. 
+```swift
 func transform(_ numbers: [Int]) -> [Int] {
     return numbers.filter { $0 % 2 == 0 }.map { $0 * 10 }.sorted()
 }
@@ -465,7 +474,8 @@ Question 39
 Question text
 Which implementation defines a protocol `Payable` with a method `pay(amount:)` and shows a type conforming to it?
 Select one:
-a. ```swift
+a. 
+```swift
 protocol Payable {
     func pay(amount: Double)
 }
@@ -475,18 +485,21 @@ struct Wallet: Payable {
     }
 }
 ```
-b. ```swift
+b. 
+```swift
 class Payable {
     func pay(amount: Double) {}
 }
 struct Wallet: Payable {}
 ```
-c. ```swift
+c. 
+```swift
 protocol Payable {
     var amount: Double { get }
 }
 ```
-d. ```swift
+d. 
+```swift
 struct Payable {
     func pay(amount: Double) {}
 }

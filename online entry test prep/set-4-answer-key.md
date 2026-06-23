@@ -385,7 +385,7 @@ d. 31
 Feedback
 The correct answer is: 25
 
-Question 24
+==Question 24
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -398,6 +398,10 @@ c. Yes, because Swift is a compiled language only.
 d. No, because compiled code is a subset of interpreted code.
 Feedback
 The correct answer is: Yes, because the Swift programs that are compiled code cannot be interpreted.
+-p -> q
+some r -> p
+simp: some r -> -q==
+
 
 Question 25
 Correct

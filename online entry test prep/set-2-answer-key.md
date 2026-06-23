@@ -166,13 +166,11 @@ Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Which of the following statements represents the 'Middle Ground' logical fallacy?
-Select one:
-a. Since neither side can prove their point, both are equally correct.
-b. Compromising between two extreme claims is always the correct or true solution. Correct! The Middle Ground fallacy (Argumentum ad temperantiam) asserts that a compromise or middle point between two opposing positions must be the correct solution, regardless of the objective facts.
-c. Rejecting a claim because it contains minor errors.
-d. Assuming that because something is natural, it must be good.
-Feedback
-The correct answer is: Compromising between two extreme claims is always the correct or true solution.
+
+b. Compromising between two extreme claims is always the correct or true solution. 
+
+Correct! The Middle Ground fallacy (Argumentum ad temperantiam) asserts that a compromise or middle point between two opposing positions must be the correct solution, regardless of the objective facts.
+
 
 Question 11
 Correct
@@ -200,7 +198,8 @@ Identify the fallacy in this argument:
 Select one:
 a. Slippery Slope
 b. Circular Reasoning
-c. False Cause (Post Hoc Ergo Propter Hoc) Correct! The False Cause (Post Hoc) fallacy occurs when it is assumed that because one event followed another, the first event must have caused the second. Here, button color and traffic increase might be purely coincidental or driven by a third factor (e.g. weekly marketing cycle).
+c. False Cause (Post Hoc Ergo Propter Hoc) 
+Correct! The False Cause (Post Hoc) fallacy occurs when it is assumed that because one event followed another, the first event must have caused the second. Here, button color and traffic increase might be purely coincidental or driven by a third factor (e.g. weekly marketing cycle).
 d. False Analogy
 Feedback
 The correct answer is: False Cause (Post Hoc Ergo Propter Hoc)
@@ -229,7 +228,8 @@ Question text
 If it is true that 'All good programmers write tests' and 'Some good programmers are self-taught', which of the following MUST be true?
 Select one:
 a. All self-taught programmers write tests.
-b. Some programmers who write tests are self-taught. Correct! Since some good programmers are self-taught, and all good programmers write tests, the overlap subset (good programmers who are self-taught) must write tests. Therefore, some programmers who write tests are self-taught.
+b. Some programmers who write tests are self-taught. 
+Correct! Since some good programmers are self-taught, and all good programmers write tests, the overlap subset (good programmers who are self-taught) must write tests. Therefore, some programmers who write tests are self-taught.
 c. No self-taught programmers write tests.
 d. Some good programmers who write tests are not self-taught.
 Feedback
@@ -260,7 +260,8 @@ An argument says:
 What fallacy is committed here?
 Select one:
 a. Circular Reasoning
-b. False Analogy Correct! A False Analogy occurs when an analogy is drawn between two things that share some similarities, but the comparison is extended to an area where they are completely different and the analogy no longer holds.
+b. False Analogy 
+Correct! A False Analogy occurs when an analogy is drawn between two things that share some similarities, but the comparison is extended to an area where they are completely different and the analogy no longer holds.
 c. Slippery Slope
 d. False Cause
 Feedback
@@ -392,11 +393,9 @@ Not flaggedFlag question
 Question text
 Identify the logical fallacy in the following statement:
 'If we allow users to customize their dashboard fonts, they will soon demand custom background layouts. Then they will want to upload custom themes, and eventually we will end up with an unmaintainable codebase that crashes on every load.'
-Select one:
-a. Circular Reasoning
-b. False Cause
-c. Slippery Slope Correct! The slippery slope fallacy assumes that a small, relatively harmless first step (customizing fonts) will inevitably lead to a chain reaction of extreme, negative consequences (unmaintainable code and crashes) without any proof of necessity.
-d. Middle Ground
+
+Correct! The slippery slope fallacy assumes that a small, relatively harmless first step (customizing fonts) will inevitably lead to a chain reaction of extreme, negative consequences (unmaintainable code and crashes) without any proof of necessity.
+
 Feedback
 The correct answer is: Slippery Slope
 
@@ -659,7 +658,8 @@ Not flaggedFlag question
 Question text
 Which snippet correctly defines a protocol `Readable` with a method `read() -> String` and a type conforming to it?
 Select one:
-a. ```swift
+a. 
+```swift
 protocol Readable {
     func read() -> String
 }
@@ -668,9 +668,14 @@ struct Note: Readable {
         return "content"
     }
 }
-``` Correct! - The protocol defines the required method contract, and 
+``` 
+
+Correct! - The protocol defines the required method contract, and 
 - the struct conforms to it by implementing `read()`.
-b. ```swift
+  
+b. 
+
+```swift
 class Readable {
     func read() -> String { return "" }
 }
@@ -687,7 +692,8 @@ struct Readable {
 }
 ```
 Feedback
-The correct answer is: ```swift
+The correct answer is: 
+```swift
 protocol Readable {
     func read() -> String
 }
@@ -708,7 +714,8 @@ Question text
 In Swift, what is a failable initializer?
 Select one:
 a. An initializer that throws an error using the throw keyword.
-b. An initializer declared with init? that returns an optional instance, which can be nil if initialization fails. Correct! A failable initializer is declared with init?. It initializes an optional representation of the type, returning nil if a condition during initialization is not met.
+b. An initializer declared with init? that returns an optional instance, which can be nil if initialization fails. 
+Correct! A failable initializer is declared with init?. It initializes an optional representation of the type, returning nil if a condition during initialization is not met.
 c. An initializer that fails to compile if any property is uninitialized.
 d. An initializer that only executes if the class conforms to Codable.
 Feedback
@@ -801,11 +808,8 @@ Question text
 Which of the following access levels in Swift restricts access to the defining source file only?
 Select one:
 a. private
-b. fileprivate Correct! fileprivate restricts access to the source file in which the type is defined. private restricts access to the enclosing declaration.
-c. internal
-d. public
-Feedback
-The correct answer is: fileprivate
+b. fileprivate 
+Correct! fileprivate restricts access to the source file in which the type is defined. private restricts access to the enclosing declaration.
 
 Question 44
 Correct
@@ -839,7 +843,8 @@ Question text
 In Swift, what is a protocol extension?
 Select one:
 a. A way to add new requirements to an existing protocol.
-b. A mechanism to provide default implementations for protocol methods, enabling conforming types to inherit behavior without overriding it. Correct! Protocol extensions allow you to define default behavior and implementation for methods and computed properties defined in a protocol, avoiding boilerplate in conforming classes and structs.
+b. A mechanism to provide default implementations for protocol methods, enabling conforming types to inherit behavior without overriding it. 
+Correct! Protocol extensions allow you to define default behavior and implementation for methods and computed properties defined in a protocol, avoiding boilerplate in conforming classes and structs.
 c. An extension that makes a protocol conform to another protocol.
 d. A class that subclass a protocol definition.
 Feedback
@@ -872,11 +877,8 @@ Question text
 Which Swift statement is used to execute a code block only if a condition is met, otherwise exiting the current scope?
 Select one:
 a. check
-b. guard Correct! The `guard` statement is used to transfer control out of a scope if a condition is not met. It requires an `else` block which must exit the current scope.
-c. assert
-d. require
-Feedback
-The correct answer is: guard
+b. guard 
+Correct! The `guard` statement is used to transfer control out of a scope if a condition is not met. It requires an `else` block which must exit the current scope.
 
 Question 48
 Correct

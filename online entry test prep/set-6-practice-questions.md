@@ -380,7 +380,7 @@ b. `print(name!.count ?? 0)`
 c. `print(name.count)`
 d. `if name != nil { print(name.count) }`
 
-Question 32
+==Question 32
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -392,7 +392,7 @@ Select one:
 a. `7`
 b. `6`
 c. `0`
-d. `x`
+d. `x`==
 
 Question 33
 Question text

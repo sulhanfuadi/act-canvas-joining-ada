@@ -156,7 +156,7 @@ Select one:
 a. All self-taught programmers write tests.
 b. Some programmers who write tests are self-taught.
 c. No self-taught programmers write tests.
-d. Some good programmers who write tests are not self-taught.
+d. Some good programmers who write tests are ==not== self-taught.
 
 Question 15
 Question text

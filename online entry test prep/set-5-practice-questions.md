@@ -82,14 +82,14 @@ b. Valid, because by Modus Tollens (If P then Q; Not Q; Therefore Not P), the ab
 c. Invalid, because it commits the fallacy of affirming the consequent.
 d. Valid, because the application is never slow.
 
-Question 8
+==Question 8
 Question text
 A class has `40 students`. `65%` of the students pass the Logic exam, `55%` pass the Programming exam, and `20%` fail both. How many students pass both exams?
 Select one:
 a. 12 students
 b. 16 students
 c. 20 students
-d. 24 students
+d. 24 students==
 
 Question 9
 Question text
