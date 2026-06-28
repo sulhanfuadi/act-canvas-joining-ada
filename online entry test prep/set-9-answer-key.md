@@ -69,7 +69,7 @@ Mark 1 out of 1
 Not flaggedFlag question
 Question text
 Number pattern: `0, 6, 24, 60, 120, 210, ?`
-Select one:
+Select one
 a. 330
 b. 336 Correct! The sequence represents n^3 - n: 1^3 - 1 = 0; 2^3 - 2 = 6; 3^3 - 3 = 24; 4^3 - 4 = 60; 5^3 - 5 = 120; 6^3 - 6 = 210. The next term is 7^3 - 7 = 343 - 7 = 336.
 c. 343

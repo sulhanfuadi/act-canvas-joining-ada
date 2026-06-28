@@ -183,7 +183,7 @@ d. Some students who watch television study late.
 Feedback
 The correct answer is: Some students who get high grades do not watch television.
 
-Question 12
+==Question 12
 Correct
 Mark 1 out of 1
 Not flaggedFlag question
@@ -195,7 +195,7 @@ b. 11:45 AM
 c. 12:00 PM (noon) Correct! By 10:30 AM, Train X has traveled for 0.5 hours, covering 40 km. The remaining distance is 300 km. Since they travel toward each other, their relative speed is 80 + 120 = 200 km/h. They will cover the remaining distance in 300 / 200 = 1.5 hours. 10:30 AM + 1.5 hours = 12:00 PM (noon).
 d. 12:15 PM
 Feedback
-The correct answer is: 12:00 PM (noon)
+The correct answer is: 12:00 PM (noon)==
 
 Question 13
 Correct

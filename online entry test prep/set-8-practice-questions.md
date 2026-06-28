@@ -43,14 +43,14 @@ b. No, because there could be well-designed programs that are compilers.
 c. Yes, because no compilers are well-designed programs.
 d. No, because the premises do not establish a link between compilers and well-designed programs.
 
-Question 4
+==Question 4
 Question text
 Number pattern: `10, 11, 15, 24, 40, 65, ?`
 Select one:
 a. 81
 b. 90
 c. 101
-d. 105
+d. 105==
 
 Question 5
 Question text
@@ -67,14 +67,14 @@ b. Budi
 c. Eka
 d. Caca
 
-Question 6
+==Question 6
 Question text
 Three programmers (A, B, and C) can complete a module in `6 hours`, `8 hours`, and `12 hours` respectively when working alone. They start working on a module together. After `2 hours`, programmer A leaves the project. Programmer B and C continue working together. How much total time (including the first 2 hours) does it take to complete the module?
 Select one:
 a. 3.0 hours
 b. 3.2 hours
 c. 3.5 hours
-d. 4.0 hours
+d. 4.0 hours==
 
 Question 7
 Question text
@@ -253,14 +253,14 @@ b. C
 c. D
 d. Cannot be determined
 
-Question 24
+==Question 24
 Question text
 If 6 identical servers can process 1200 requests in 4 minutes, how many minutes will it take 8 of these servers to process 3200 requests?
 Select one:
 a. 6 minutes
 b. 8 minutes
 c. 10 minutes
-d. 12 minutes
+d. 12 minutes==
 
 Question 25
 Question text
@@ -290,7 +290,7 @@ b. `[[2], [4]]`
 c. `[1, 2, 3, 4, 5]`
 d. `[2, 4, nil]`
 
-Question 27
+==Question 27
 Question text
 What is the output of the following Swift code?
 ```swift
@@ -312,7 +312,7 @@ Select one:
 a. `10 0`
 b. `10 20`
 c. `0 0`
-d. `0 20`
+d. `0 20`==
 
 Question 28
 Question text
